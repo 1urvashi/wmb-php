@@ -1,0 +1,243 @@
+<?php
+
+namespace App\Http\Controllers\Api\V1\Trader;
+
+use App\Http\Requests;
+use Illuminate\Http\Request;
+use App\TraderUser;
+use App\Bid;
+use Validator;
+use App\Notifications;
+use App\AttributeValue;
+use App\NotificationPreference;
+use App\Auction;
+use Carbon\Carbon;
+use App\Make;
+use App\Models;
+use Hash;
+use App\Http\Controllers\ApiController;
+use Auth;
+use Illuminate\Support\Facades\Log;
+use Twilio\Rest\Client;
+
+class NotificationsController extends ApiController {
+
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct() {
+        $this->middleware(['api']);
+    }
+
+    public function getPreferenceOptions(Request $request) {
+
+        $user = TraderUser::where('api_token', $request->api_token)->first();
+        if( (!empty($request->session_id)) && ($user->session_id != $request->session_id) ) {
+          return $this->sessionExpireErrorResponse(trans('api.session_expire'));
+        }
+        $traderId = $user->id;
+
+        $data = $this->getTraderPreferences($traderId);
+
+
+        return $this->successResponse(trans('api.notification_data'), $data);
+    }
+
+    private function getTraderPreferences($traderId) {
+
+        $data = array();
+
+        $data['minYear'] = (int) AttributeValue::where('attribute_id', 1)->min('attribute_value');
+        $data['maxYear'] = (int) AttributeValue::where('attribute_id', 1)->max('attribute_value');
+
+        $data['minMileage'] = 1000;
+        $data['maxMileage'] = 600000;
+
+        $makes = Make::all();
+        $i = 0;
+        foreach ($makes as $make) {
+            $data['makes'][$i]['id'] = $make->id;
+            $data['makes'][$i]['attribute_value'] = $make->name;
+            $i++;
+        }
+
+
+        $result['preference'] = $data;
+        $userPref = NotificationPreference::where('trader_id', $traderId)->first();
+
+
+        $result['user'] = !empty($userPref) ? json_decode($userPref->options, true) : null;
+
+        return $result;
+    }
+
+    public function setPreferenceOptions(Request $request) {
+
+        $user = TraderUser::where('api_token', $request->api_token)->first();
+        if( (!empty($request->session_id)) && ($user->session_id != $request->session_id) ) {
+          return $this->sessionExpireErrorResponse(trans('api.session_expire'));
+        }
+        $traderId = $user->id;
+
+        $options = $request->options;
+
+        $exist = NotificationPreference::where('trader_id', $traderId)->first();
+
+        $notification = !empty($exist) ? NotificationPreference::find($exist->id) : new NotificationPreference();
+        $notification->trader_id = $traderId;
+        $notification->options = json_encode($options);
+        $notification->save();
+
+        $data = $this->getTraderPreferences($traderId);
+        return $this->successResponse(trans('api.notification_pref_saved'), $data);
+    }
+
+    public function getNotifications(Request $request) {
+
+        /* $validator = Validator::make($request->all(),array('auctionId' => 'required'));
+          if ($validator->fails()) {
+          return response()->json(["StatusCode" => 20000, "Status" => $validator->errors()->all()]);
+          } */
+
+        $user = TraderUser::where('api_token', $request->api_token)->first();
+        if( (!empty($request->session_id)) && ($user->session_id != $request->session_id) ) {
+           return $this->sessionExpireErrorResponse(trans('api.session_expire'));
+        }
+        $traderId = $user->id;
+        
+
+        $notifications = Notifications::where('trader_id', $traderId)->orderBy('id', 'desc')->limit(50)->get();
+
+        $data = array();
+
+        if (!empty($notifications)) {
+
+            $i = 0;
+
+            foreach ($notifications as $_notification) {
+
+                $data[$i]['id'] = $_notification->id;
+
+                $data[$i]['title'] = $_notification->title;
+                $data[$i]['desc'] = $_notification->desc;
+                $data[$i]['trader_id'] = $_notification->trader_id;
+
+                $data[$i]['trader_id'] = $_notification->trader_id;
+                $data[$i]['auction_id'] = $_notification->auction_id;
+
+                $auction = Auction::find($_notification->auction_id);
+
+                if (!empty($auction)) {
+
+                    $data[$i]['auctionStatus'] = $auction->getStatusValue($auction->status);
+                    $bidUser = Bid::where('auction_id', $_notification->auction_id)->orderBy('price', 'desc')->limit(1)->first();
+                    $data[$i]['bidOwner'] = !empty($bidUser->trader_id) ? $bidUser->trader_id : 0;
+                } else {
+
+                    $data[$i]['auctionStatus'] = 12;
+                    $data[$i]['bidOwner'] = 0;
+                }
+
+
+
+                $data[$i]['type'] = $_notification->type;
+                //echo $_notification->created_at->format('Y-m-d H:i:s');
+                //exit;
+
+                $data[$i]['date'] = $_notification->created_at->format('Y-m-d H:i:s');
+                //\Carbon\Carbon::createFromTimeStamp(strtotime($comment->created_at))->diffForHumans()
+
+                $i++;
+            }
+
+            //echo json_encode($data);
+            //exit;
+            return $this->successResponse(trans('api.notification_data'), $data);
+        } else {
+            return $this->errorResponse(trans('api.notifications_not_found'));
+        }
+
+        echo $traderId;
+        exit;
+    }
+
+    public function twilioRegister(Request $request) {
+        $validator = Validator::make($request->all(), array('identity' => 'required', 'BindingType' => 'required', 'Address' => 'required'));
+        if ($validator->fails()) {
+            return $this->errorResponse(trans('api.error_required_fields'));
+        }
+
+        // $client = new Client(config('services.twilio.apiKey'), config('services.twilio.apiSecret'), config('services.twilio.accountSid'));
+        $client = new Client(config('services.twilio.accountSid'), config('services.twilio.authToken'));
+
+        $service = $client->notify->v1->services(config('services.twilio.serviceSid'));
+
+        // Create a binding
+        try {
+            $binding = $service->bindings->create(
+                    $request->identity, $request->BindingType, $request->Address
+            );
+
+            return $this->successResponse(trans('api.bindingCreated'));
+        } catch (Exception $e) {
+            Log::error('Error creating binding: ' . $e->getMessage());
+            return $this->errorResponse(trans('api.bindingFalied'));
+        }
+    }
+
+	public function test(){
+		exit;
+		//skip(10)->->take(100)
+		$traders = TraderUser::where('device_type', 'iOS')->where('device_id_actual','!=', '')->get();
+        $devices['iosDevices'] = array();
+        $devices['androidDevices'] = array();
+
+
+
+        foreach ($traders as $trader) {
+
+
+
+			//if( $trader->device_type == 'iOS' )	{
+				 $client = new Client(config('services.twilio.apiKey'), config('services.twilio.apiSecret'), config('services.twilio.accountSid'));
+        		 $service = $client->notify->v1->services(config('services.twilio.serviceSid'));
+
+				 $bindingType = 'apn';
+				 $identity = 'TraderIOS'.$trader->id;
+
+				 TraderUser::where('id', $trader->id)
+            		->update(array('device_id' => $identity));
+
+
+				  try {
+						$binding = $service->bindings->create(
+								$identity, $bindingType, $trader->device_id_actual
+						);
+
+					} catch (Exception $e) {
+						Log::error('Error creating binding: ' . $e->getMessage());
+					}
+
+
+			//}
+			/*elseif($trader->device_type == 'Android'){
+
+
+			}*/
+
+
+			//echo $trader->id;
+			//exit;
+
+
+
+		}
+
+
+	}
+
+
+
+}

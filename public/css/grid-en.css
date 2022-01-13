@@ -1,0 +1,656 @@
+   .header-error{ position: absolute;left: 0;right: 0;text-align: center;z-index: 9;background: rgba(0, 0, 0, 0.3);    padding: 20px; color: #fff;font-size: 18px;}
+  .preload {background: #fff;position: fixed;width: 100%;height: 100%;top: 0px;left: 0px; z-index: 9999999999999;text-align: center;}
+  .preload img {position: relative;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);}
+    .loggedin header .menu-wrap ul li{font-size: 20px;}
+    header .menu-wrap .mobile .active{background: #000;}
+    header .menu-wrap .mobile li:hover{background: #000;}
+    .loggedin header .color-select-box{float: right!important;margin-top: 0px!important;}
+    .loggedin header .user-links .arabic{float: right!important;margin-left: 10px;margin-top: 0px;}
+    .loggedin header .user-links{margin-top: 20px;}
+    .loggedin header .user-data{font-size: 15px;font-family: 'noteworthybold';text-align: right;text-transform: uppercase;margin-top: 15px;    margin-bottom: 0px;}
+    .loggedin header .user-data a{ color: #000;text-decoration: none;}
+    .loggedin header .user-data span{font-size: 15px;font-family: 'noteworthylight';}
+    .loggedin header .menu-wrap ul{margin-top: 16px!important;}
+    #register-content .edit .form-wrap .form-register .mob-f{width: 100%!important;}
+     .alert-success{text-align: center; color: #000!important;font-size: 18px!important;}
+     .alert-danger{text-align: center!important;font-size: 18px!important;}
+     #pointsChart[style]{margin-right: 10px;}
+    .bootstrap-select .dropdown-menu{background: #000;}
+    .bootstrap-select .dropdown-menu ul li a {color: #fff;}
+    .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{background: none!important;}
+    .bootstrap-select .dropdown-toggle:focus{outline: none!important;}
+    .loggedin #latest_deals{margin-top: 90px!important;}
+    .guest #meta h2{margin-top: 90px!important;}
+.label-success {
+    background-color: #5cb85c;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 14px;
+}
+.pop .error{text-align: center;}
+#abid{
+    float: left;
+}
+#about-content .title-wrapper {background: url(../images/pages/h-you.jpg); background-position: center;background-repeat: no-repeat;background-size: cover;;
+    background-attachment: initial;min-height: 260px;}
+#location .title-wrapper {background: url(../images/pages/h-search.jpg); background-position: center;background-repeat: no-repeat;background-size: cover;;
+    background-attachment: initial;min-height: 260px;}
+
+
+#change-password.com-pro{
+    padding-top: 0px!important;
+}
+#change-password.com-pro h2 {
+    margin-bottom: 30px;
+    margin-top: 57px;
+}
+
+ #register-content .form-wrap .form-register .titsel-wrap .fright{max-width: 262px; float: left;  }
+ div#pointsChart[style]{
+    background: none!important;
+}
+#register2-content.pop h2{
+    font-size: 45px!important;
+
+}
+#register2-content.pop p{
+    font-size: 28px!important;
+}
+
+@media only screen and (max-width : 1200px) {
+    .loggedin header .menu-wrap ul li{font-size: 15px!important;}
+    #register-content .form-wrap .form-register .natsel .btn{width:455px!important;}
+    #register-content .form-wrap .form-register .consel .btn{width:452px!important;}
+    #offersfor-you .off4 .lat-deal-text a{top: 9px!important;}
+    #register-content .form-wrap .form-register .number-wrap{padding-left: 16px!important;}
+    #register-content .form-wrap .form-register .codesel .btn{width: 150px!important;padding-left: 0px!important;}
+    #register-content .form-wrap .form-register .mob-f{width: 289px!important;}
+    #register-content .form-wrap .form-register .codesel{width: 160px!important;}
+    #register-content .form-wrap .form-register input {font-size: 18px!important;}
+    #location #map[style]{max-width: 100%!important;}
+    #register-content .form-wrap .form-register .termsch{padding-left: 20px!important;}
+    #latest_deals .lat-deal-text .share-wrap {right: -4px!important;}   
+
+    #happy_mobile .happy_mob_wrap{ background-size: 542px !important;}
+        #happy_mobile .happy_mob_wrap .a{left: 320px!important;top: 121px!important;}
+        #happy_mobile .happy_mob_wrap .b{right: 316px!important;top: 119px!important;}
+        #happy_mobile .happy_mob_wrap .c{bottom: 120px!important;left: 318px!important;}
+        #happy_mobile .happy_mob_wrap .d{bottom: 29px!important;left: 469px!important;}
+        #happy_mobile .happy_mob_wrap .e{bottom: 36px!important;right: 456px!important;}
+        #happy_mobile .happy_mob_wrap .f{bottom: 128px!important;right: 126px!important;}
+    #stores_link h3{padding-top: 0px!important;}
+         #happy_mobile .happy_mob_wrap .a{width: 134px !important;}
+        #happy_mobile .happy_mob_wrap .b{ width: 134px !important;}
+        #happy_mobile .happy_mob_wrap .c{ width: 134px !important;}
+        #happy_mobile .happy_mob_wrap .d{ width: 116px !important;}
+        #happy_mobile .happy_mob_wrap .e{ width: 116px !important;}
+        #happy_mobile .happy_mob_wrap .f{ width: 134px !important;}
+}
+
+@media only screen and (min-width : 1200px){
+    #register-content .form-wrap .form-register .titlesel { margin-left: 50px;}
+    #chkPrivacyPolicy-error.error,#subscribe-error.error{left:0px!important;}
+    #title-error.error{margin-left: 50px;}
+
+}
+@media only screen and (min-width : 992px) and (max-width : 1199px){
+ #happy_mobile .happy_mob_wrap{height: 486px!important;margin-top: -75px!important;}
+#dealfu-content .deal-post-wrapper .deal-post-wrap h3{max-width: 283px!important; font-size: 19px!important;padding-top: 25px!important;}
+#dealfu-content .deal-post-wrapper .deal-post-wrap {min-height: 291px!important;}
+        #happy_mobile .happy_mob_wrap .a{left: 217px!important;top: 121px!important;}
+        #happy_mobile .happy_mob_wrap .b{right: 216px!important;top: 128px!important;}
+        #happy_mobile .happy_mob_wrap .c{bottom: 99px!important;left: 219px!important;}
+        #happy_mobile .happy_mob_wrap .d{bottom: 26px!important;left: 360px!important;}
+        #happy_mobile .happy_mob_wrap .e{bottom: 28px!important;right: 357px!important;}
+        #happy_mobile .happy_mob_wrap .f{bottom: 106px!important;right: 219px!important;}
+}
+@media only screen and (min-width : 992px){
+    .menub{display: none;}
+    header .menu-wrap ul li{    background: url(../images/b-a.png) no-repeat top, url(../images/b-b.png) no-repeat bottom, url(../images/b-d.png) no-repeat right, url(../images/b-d.png) no-repeat left;}
+    
+}
+
+@media only screen and (max-width : 991px) {
+    .guest header .menu-wrap ul li{font-size: 18px!important;}
+    #register-content .form-wrap .form-register .natsel .btn{width:345px!important; }
+    #register-content .form-wrap .form-register .consel .btn{width:345px!important;}
+    
+    header .menu-wrap ul li{font-size: 16px;}
+    header .menu-wrap ul li{float: none!important;margin-right: 0px!important;}
+    header .menu-wrap ul .draw:before{border: none!important;}
+    header .menu-wrap ul .draw:after{border: none!important;}
+    .mobile{display: none;width: 100%;}
+    .menub{display: block;margin-top: 15px;}
+    #offersfor-you .off4 .lat-deal-text a{top: 7px!important;font-size: 16px!important;}
+    #register-content .form-wrap .form-register .date{width: 346px!important;}
+    #register-content .form-wrap .form-register .date input{width: 320px!important;}
+    #register-content .form-wrap .form-register .codesel .btn{width: 135px!important;}
+    #register-content .form-wrap .form-register .codesel{width: 143px!important;}
+    #register-content .form-wrap .form-register .codesel .btn{width: 128px!important;}
+    #register-content .form-wrap .form-register .mob-f {width: 201px!important;padding-left: 7px!important;}
+    #register-content .form-wrap .form-register .codesel .btn{font-size: 26px!important;}
+    #my-trans .trans-wrap .trans-head .head-single h3{font-size: 18px!important;}
+    #my-trans .trans-wrap .trans-data-2 .inwrap .rowhead .rowheadin .row-in h4{font-size: 18px!important;}
+     header .menu-wrap ul{ background: rgba(0, 0, 0, 0.07);}
+    #register-content .form-wrap .form-register input {font-size: 22px!important;}
+    #meta .container .in h3 {font-size: 15px!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap{text-align: center!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap h3{margin-left: 34px;    max-width: 575px!important;}
+  #dealfu-content .deal-post-wrapper .deal-post-wrap .share-wrap{right: 49px!important;    bottom: 0px!important;}
+  #dealfu-content .deal-post-wrapper .deal-post-wrap{text-align: center;}
+    #latest_deals img{max-width: 100%!important;}
+    #latest_deals .lat-deal-text .share-wrap img{width: 33px!important;}
+    #latest_deals .lat-deal-text .share-wrap{right: 1px!important;bottom: 1px!important;}
+    #latest_deals .lat-deal-text p{text-align: left;padding-left: 10px;margin-top: -4px;font-size: 16px!important;}
+    #offersfor-you .off4 img{max-width: 100%!important;}
+        #offersfor-you .off4 .share-wrap {right: 13px!important; bottom: 6px!important;}
+    #offersfor-you .off4 .share-wrap img {width: 28px!important;}
+
+    .happy_mob_wrap{background-size: 437px!important;height: 664px!important;margin-top: -156px!important;}
+        #happy_mobile .happy_mob_wrap .a{left: 115px!important;top: 196px!important;}
+        #happy_mobile .happy_mob_wrap .b{right: 105px!important;top: 191px!important;}
+        #happy_mobile .happy_mob_wrap .c{bottom: 205px!important;left: 110px!important;}
+        #happy_mobile .happy_mob_wrap .d{bottom: 107px!important;left: 248px!important;}
+        #happy_mobile .happy_mob_wrap .e{bottom: 112px!important;right: 249px!important;}
+        #happy_mobile .happy_mob_wrap .f{bottom: 184px!important;right: 114px!important;}
+#loggedin-content .profile-wrap .pro-p-data{max-width: 100%!important;}
+#loggedin-content .profile-wrap .pro-c-data{max-width: 100%!important;}
+
+
+} 
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    #about-content h2{font-size: 19px!important;}
+}
+@media only screen and (max-width : 767px) {
+    .fleft,.fright{float: none!important;margin: 0 auto;}
+    #register-content .form-wrap .form-register .natsel .btn{width:100%!important;}
+    #register-content .form-wrap .form-register .consel .btn{width:100%!important;}
+    #register-content .form-wrap .form-register .sel-wrap{text-align: center!important;}
+    #register-content .form-wrap .form-register .titlesel .btn{width: 100%!important;}
+    #register-content .form-wrap .form-register .date input{width: 100%!important;}
+    #register-content .form-wrap .form-register .titlesel{width: 100%;margin: 0 auto;text-align: center;float: none!important;}
+    .titsel-wrap{text-align: center;}
+    .d-two{clear: both;}
+    .d-two,.d-one{text-align: center;}
+    #loggedin-content .points-wrap p{width: 100%!important;}
+    #register-content .form-wrap .form-register .date{width: 100%!important;}
+    #register-content .form-wrap .form-register .date input{width: 100%!important;}
+    #register-content .form-wrap .form-register .number-wrap{text-align: center!important;}
+    #register-content .form-wrap .form-register .codesel{width: 25%!important;}
+    #register-content .form-wrap .form-register .mob-f{width: 100%!important;}
+    #register-content .form-wrap .form-register .codesel .btn{margin-top: -22px!important;}
+    #register-content .form-wrap .form-register .codesel .dropdown-menu{top: 68px;}
+    #faq .faq-wrap{margin-left: 10px;margin-right: 10px;}
+    #about-content p{padding: 0px 15px!important;}
+    #map[style]{width: 100%!important;}
+    .map{padding: 0px!important;margin-bottom: 20px;}
+    .map-data{padding: 0px!important;}
+    #location .rowd h4{font-size: 20px!important;}
+    #my-group .points-wrap .point-table .head .one h4,#my-group .points-wrap .point-table .head .two h4{font-size: 16px!important;}
+    #my-group .points-wrap .point-table .li h5{font-size: 19px!important;}
+    #my-group .points-wrap .point-table .li .two{padding-left: 0px!important;}
+    #my-group .points-wrap .point-table .li .two p{font-size: 24px!important;}
+    #my-trans .trans-wrap .trans-data-1 .trans-datad-wrap .trans-datad-inwrap p{font-size: 13px!important;}
+    #my-trans .trans-wrap .trans-data-1 .trans-datah-wrap .trans-datah-inwrap h4{font-size: 13px!important;}
+    #my-trans .trans-wrap .trans-data-1 .trans-datah-wrap .trans-datah-inwrap{height: 50px!important;}
+    #my-trans .trans-wrap .trans-data-2 .inwrap .rowhead .rowheadin .row-in h4{font-size: 18px!important;}
+    #my-trans .trans-wrap .trans-head .head-single{max-width: 323px!important;}
+    #my-trans .trans-wrap .trans-head .head-single{float: none!important;margin: 0 auto!important;}
+    #my-trans .trans-wrap .trans-head .head-single h3{padding: 19px 20px 13px !important;}
+    #register-content .form-wrap .form-register input{font-size: 22px!important;}
+    #change-password .form-wrap .form-pass-change .titlesel{width: 25%!important;}
+    #change-password .form-wrap .form-pass-change .pass{width: 97%!important;}
+    #forg-p-content .form-wrap .mob-f{float: none!important;}
+    #forg-p-content .form-wrap .email-f,#forg-p-content .form-wrap .mob-f{font-size: 22px!important;}
+        #register-content .form-wrap .form-register input {font-size: 22px!important;}
+    .edit-ce{text-align: center;margin-bottom: 15px;}
+    #about-content p{font-size: 20px!important;}
+    #location .map-data{max-width: 505px!important; width: 100%!important; margin: 0 auto!important;}
+    #register-content .form-wrap .form-register .reg-submit,#register-content .edit .bot-bbtns h4{width: 100%!important;margin: 0 auto!important;max-width: 420px;margin-bottom: 50px!important;}
+    #register-content .form-wrap .form-register .reg-submit input{padding-left: 0px!important;width: 99%!important;margin: 0 auto!important;}
+    .loggedin header .user-data,.loggedin header .user-data span{font-size: 14px!important}
+    #loggedin-content .top-content h2{font-size: 40px!important;}
+    #loggedin-content .points-wrap p{font-size: 32px!important;}
+    #offersfor-you h2{font-size: 32px;}
+    #meta .container .in h3 {font-size: 16px!important;max-width: 303px;width: 100%;margin: 0 auto!important;}
+    #meta .container .in {margin-bottom: 20px!important;}
+    #register-content .form-wrap .form-register .titlesel .btn,#register-content .form-wrap .form-register .consel .btn{left: 0!important;}
+    #my-group .points-wrap .d-one .point-bal,#my-group .points-wrap .d-two .point-bal,#my-trans .trans-wrap .trans-data-2 .inwrap .rowhead,#my-trans .trans-wrap .trans-data-2 .inwrap .rowdata{float: none!important;margin: 0 auto;}
+    #loggedin-content .profile-wrap .my-activities .l h4{margin-bottom: 20px!important;}
+    #my-trans .trans-wrap .trans-data-2 .inwrap{width: 100%!important;float: none;}
+    .lis{text-align: center!important;}
+    #register-content .top-content a h3{font-size: 21px!important;padding-top: 30px!important;}
+    .error{width: 100%!important;text-align: left;}
+    #register-content .form-wrap span.fo-dtl,  #register-content .form-wrap span.fo-dtr  {max-width: 501px;margin:0 auto; width: 100%!important; text-align: left!important;float: none!important; }
+    #register-content .form-wrap .edit-ce h4{float: none!important;margin: 0 auto;}
+    #register-content .form-wrap .edit-cea h4,#register-content .form-wrap .edit-ceb h4{float: none!important;margin: 0 auto;}
+    #change-password .form-wrap .form-pass-change .pass{font-size:28px!important;}
+    #faq .faq-wrap p { font-size: 19px!important; padding: 0px!important;}
+
+    #dealfu-content .deal-post-wrapper .deal-post-wrap{text-align: center!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap h3{position: static!important;    text-align: left;    margin-top: 0px!important;margin-left: 0px!important;    max-width: 575px!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap .share-wrap{right: 49px!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap .share-wrap{bottom: 0!important;    right: 15px!important;}
+    #dealfu-content .sel-wrap .bootstrap-select button{font-size: 19px!important;padding-left: 0px!important;padding-top: 7px!important;}
+    .flex-direction-nav{display: none!important;}
+    #register-content .form-wrap .form-register .termsch{text-align: center!important;}
+    #register-content .form-wrap .form-register .termsch:nth-child(2){margin-bottom: 30px;}
+    #change-password .form-wrap .form-pass-change .mob-1,#change-password .form-wrap .form-pass-change .mob-2{width: 60%!important;}
+    #change-password .form-wrap .mcode1 .titlesel{width: 38%!important;}
+        #change-password .form-wrap .mcode1 .titlesel button{width: 100%!important;}
+    #change-password .form-wrap .mcode2 .titlesel{width: 38%!important;}
+        #change-password .form-wrap .mcode2 .titlesel button{width: 100%!important;}
+    #latest_deals img{max-width: 303px!important;}
+    #latest_deals .lat-deal-text{max-width: 303px;width: 100%;margin:0 auto;}
+    #latest_deals .lat-deal-text .share-wrap {right: 5px!important; bottom: 9px!important;}
+    #latest_deals .lat-deal-text p{font-size: 20px!important;}
+    #latest_deals .deal-wrapp{margin-bottom: 30px;}
+    #about-content ul{padding: 0px 10px!important;margin-left: 20px!important;font-size: 20px!important;}
+    #register-content .form-wrap .form-register .codesel{width: 100%!important;max-width: 501px!important;display: flex!important;}
+    #register-content .form-wrap .form-register .codesel .btn{max-width: 501px!important; width: 100%!important;}
+    #register-content .form-wrap .form-register .number-wrap .number-inwrap{width: 100%!important;margin-top: 10px!important;}
+    .checkbox.checkbox-inline-1{display: flex;max-width: 501px;width: 100%; margin: 0 auto;}
+    .checkbox label::after{left: 15px!important;top: 2px!important;}
+    #offersfor-you .off4 img{max-width: 303px!important;}
+    #offersfor-you .all-wrrr{max-width: 303px!important;width: 100%!important;margin: 0 auto!important;position:relative!important;}
+    #offersfor-you .off4 .share-wrap {right: 7px!important; bottom: 41px!important;}
+    #register-content .form-wrap .form-register .codesel .btn{left: 0;}
+    #register-content .form-wrap .form-register .termsch{ max-width: 501px;width: 100%;margin: 0 auto; }
+    #register-content .form-wrap .form-register .titsel-wrap .fright{max-width: 501px!important; float: none!important;  }
+    #register-content .form-wrap .form-register .termsch{padding-left: 0px!important;}
+    #register-content .form-wrap .form-register .natsel{padding-left: 0px!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap {min-height: inherit!important;}
+    #register-content .form-wrap .form-register .form-control,#register-content .form-wrap .form-register .consel,#register-content .form-wrap .form-register .natsel{float: none!important;}
+    #register-content .form-wrap .form-register .titlesel,#register-content .form-wrap .form-register .codesel{padding-right: 0px!important;}
+    #register-content .form-wrap .form-register .consel,#register-content .form-wrap .form-register .natsel{padding-right: 0px;}
+
+    .happy_mob_wrap {background-size: 450px !important;    height: 450px!important; width: 500px;margin: 0 auto;}
+        #happy_mobile .happy_mob_wrap .a{width: 24%!important; left: 1%!important;top: 26%!important;}
+        #happy_mobile .happy_mob_wrap .b{width: 24%!important; right: 1%!important;top: 26%!important;}
+        #happy_mobile .happy_mob_wrap .c{width: 24%!important; bottom: 10%!important;left: 1%!important;}
+        #happy_mobile .happy_mob_wrap .d{width: 24%!important; bottom: -1%!important;left: 24%!important;}
+        #happy_mobile .happy_mob_wrap .e{width: 24%!important; bottom: 0px!important;right: 24%!important;}
+        #happy_mobile .happy_mob_wrap .f{width: 24%!important; bottom: 16%!important;right: 1%!important;}
+        .mob-imgc{display: block;}
+        .happy_mob_wrap {display: none;}
+        #happy_mobile h3{margin-bottom: 50px;}
+    #about-content .title-wrap{padding: 0px !important;}
+    #loggedin-content .top-content .pro-pic .pro-pic-in .right{width: 100%!important;}
+         #loggedin-content .top-content .pro-pic .pro-pic-in .right p{text-align: center!important;}
+         #loggedin-content .top-content .pro-pic .pro-pic-in .right h2{text-align: center!important;}
+    #loggedin-content .top-content .pro-pic .pro-pic-in .left{width: 100%!important;}
+        #loggedin-content .top-content .pro-pic .pro-pic-in .left img{float: none!important;margin-top: 50px;}
+    #loggedin-content .profile-wrap .point-table .li .two{    padding-left: 0px!important;}
+
+#my-trans .trans-wrap .trans-data-3 .trans-datad-wrap .trans-datad-inwrap p,#my-trans .trans-wrap .trans-data-3 .trans3-boom .item h4{font-size: 13px!important;}
+    #my-trans .trans-wrap .trans-data-3 .trans3-boom .item p{font-size: 13px!important;padding-top: 8px!important;}
+
+    #loggedin-content .top-content .pro-pic .pro-pic-in .collect-points{left: 0; top: 0; right: none!important;;bottom: none!important;}
+}
+
+@media only screen and (min-width : 768px) {
+    .mob-imgc{display: none;}
+     .happy_mob_wrap {display: block;}
+     #loggedin-content .top-content .pro-pic .pro-pic-in .collect-points{right: 0;bottom: 0;}
+}
+
+@media only screen and (max-width : 767px) and (min-width : 561px) {
+  #register-content .form-wrap span.fo-dtl,  #register-content .form-wrap span.fo-dtr {max-width: 501px;margin:0 auto; width: 100%!important; text-align: left!important; }
+}
+
+@media only screen and (max-width : 665px) {
+    #loggedin-content .profile-wrap .pro-p-data .pro-t-wrap h3,#loggedin-content .profile-wrap .pro-c-data .pro-t-wrap h3 {font-size: 28px!important;}
+    #loggedin-content .profile-wrap .pro-p-data .prp-p-ind .r, #loggedin-content .profile-wrap .pro-p-data .prp-p-ind .l{font-size: 22px!important;}
+#loggedin-content .profile-wrap .pro-c-data .prp-c-ind .r p,#loggedin-content .profile-wrap .pro-c-data .prp-c-ind .l p{font-size: 22px;}
+    #register-content .form-wrap .form-register .mob-f{width: 97%!important;}
+    #warranty-details .item h4 { font-size: 14px!important;}
+#warranty-details .item p { font-size: 14px!important;}
+}
+@media only screen and (max-width : 528px) {
+
+#dealfu-content .sel-wrap .bootstrap-select{width: 99%!important;}
+.owl-prev { left: -11px!important;}
+.owl-next { right: -5px!important;}
+}
+@media only screen and (max-width : 480px) {
+    #register-content .edit .bot-bbtns h4{font-size: 20px!important;}
+    #dealfu-content .deal-post-wrapper .deal-post-wrap h3{font-size: 19px!important;padding-top: 24px!important;}
+    #change-password .form-wrap .mcode1 .titlesel,#change-password .form-wrap .form-pass-change .mob-1,#change-password .form-wrap .mcode2 .titlesel,#change-password .form-wrap .form-pass-change .mob-2{width: 100%!important;left: 0;    padding-right: 0px;}
+    #register-content .form-wrap .form-register .termsch {max-width: 501px; width: 90%!important; margin: 0 auto;}
+    #about-content .ab-title-b{width: 100%!important;margin-top: 0px;}
+    #about-content .ab-title-a{width: 100%!important;margin-bottom: 0px;}
+}
+
+@media only screen and (max-width : 400px) {
+    header .logo{margin-top: -10px!important;width: 118px!important;}
+    header .color-select-box{float: right!important;}
+    header .user-links{}
+    #loggedin-content .profile-wrap .pro-p-data .pro-t-wrap h3,#loggedin-content .profile-wrap .pro-c-data .pro-t-wrap h3 {font-size: 21px!important;bottom:0px!important;}
+    #loggedin-content .profile-wrap .pro-p-data .prp-p-ind .r, #loggedin-content .profile-wrap .pro-p-data .prp-p-ind .l{font-size: 18px!important;}
+    #loggedin-content .profile-wrap .pro-c-data .prp-c-ind .r p,#loggedin-content .profile-wrap .pro-c-data .prp-c-ind .l p{font-size: 19px;}
+    #dealfu-content .deal-post-wrapper .popup .big-img{margin-top: 18%!important;}
+        #about-content ul{padding: 0px 10px!important;margin-left: 20px!important;}
+}
+@media only screen and (max-width : 374px) {
+    header .logo-wrap{width: 100%;}
+    header .logo{margin-top: 0px!important;}
+    header .color-select-box{float: left!important;}
+    header .user-links{}
+    .logo-wrap{text-align: center;}
+    .loggedin header .user-data{text-align: left!important;}
+}
+
+@media only screen and (max-width : 360px) {
+ header .sign-inipop .bootstrap-select{margin-bottom: 5px!important;}
+#register-content .title-wrapper {
+    min-height: 135px!important;
+}
+}
+
+
+@media only screen and (max-width : 320px) {
+#loggedin-content .profile-wrap .pro-c-data .prp-c-ind .r p, #loggedin-content .profile-wrap .pro-c-data .prp-c-ind .l p{font-size: 16px!important;}
+
+
+}
+.bootstrap-select .dropdown-toggle:focus{ outline: 0!important; }
+
+@media only screen and (min-width : 769px) {
+    h4.in-no-c {padding-left: 68px;}
+    .checkbox.checkbox-inline{margin-left: 0px!important;}
+  //.mobile{display: none!important;}
+}
+@media only screen and (max-width : 768px) {
+  .menub{display: block;}
+  header .menu-wrap ul li{float: none!important;margin-right: 0px!important;}
+  header .menu-wrap ul .draw:before{border: none!important;}
+  header .menu-wrap ul .draw:after{border: none!important;}
+  header .menu-wrap ul{display: none;width: 100%}
+  header .container{padding-right: 15px!important; padding-left: 15px!important; }
+  header .menub{margin-top: 20px;}
+  header .logo{margin-top: -20px;}
+  #slider{margin-top: 20px;}
+  #meta .container{text-align: center;}
+    #meta .container img{margin-bottom: 10px;}
+  .desk{display: none!important;}
+  #latest_deals{text-align: center;}
+  #stores_link img{margin-bottom: 10px;}
+  header .menu-wrap ul li:hover,.active{background: #000;}
+  header .sign-inipop{width: 100%!important;background: url(../images/en/sign-popup.png)!important;}
+  header .sign-inipop .notm-cl { margin: 15px 0px 0px 22px;}
+  #gen-content .form-wrap input{font-size: 18px!important;}
+  #offersfor-you .off4 .lat-deal-text a{top: 13px!important;font-size: 19px!important;}
+  #loggedin-content .points-wrap p{width: 100%!important;text-align: center!important;max-width: none!important;}
+  #loggedin-content .points-wrap .p-point-bal{margin: 0 auto;float: none!important;}
+  #loggedin-content .points-wrap .g-point-bal{margin: 0 auto;float: none!important;}
+  #offersfor-you .off4{text-align: center;}
+  #offersfor-you .off4 .lat-deal-text{margin-bottom: 30px;}
+  //#dealfu-content .deal-post-wrapper .deal-post-wrap h3{width: 99%!important;}
+    #register-content .title-wrapper{min-height: 148px!important;}
+
+    .home-logos{width:90%!important; margin: 0px auto;}
+     .home-logos{margin-top: 20px!important;}
+      #stores_link{    padding-top: 20px!important;}
+      .loggedin #latest_deals{margin-top: 40px!important;}
+}
+    .home-logos{margin-top: 0px;}
+   .home-logos .bp{margin-top: 25px;}
+   #stores_link{    padding-top: 40px;}
+.flex-control-nav{margin-top: -20px!important;}
+.flexslider{margin: 0 0 20px!important;}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) { 
+    header .user-links .arabic{padding-top: 0px!important;}
+    header .color-select-box .bootstrap-select button{margin-top: -3px!important;padding-top: 0px!important;}
+    #loggedin-content .points-wrap .p-point-bal,#loggedin-content .points-wrap .g-point-bal{padding: 0px!important;}
+    #offersfor-you .off4 .share-wrap{right: 30px!important;bottom: 40px!important;}
+    #loggedin-content .profile-wrap .edit-wrap h4{padding-top: 18px!important;}
+    #loggedin-content .profile-wrap .my-activities .l h4,#loggedin-content .profile-wrap .my-activities .r h4{padding-top: 10px!important;}
+    #my-group .points-wrap .d-one .point-bal,#my-group .points-wrap .d-two .point-bal{padding-top: 0px!important;}
+    #my-trans .trans-wrap .trans-head .head-single h3{padding: 19px 20px 13px !important;}
+    #warranty-details .item p{padding-top: 8px!important;}
+    #register-content .form-wrap .edit-cea a.email-enabled h4,#register-content .form-wrap .edit-ceb h4{padding: 11px 15px 25px !important;}
+    #register-content .form-wrap .form-register .form-control,#register-content .form-wrap .form-register .natsel .btn{padding-top: 5px!important;}
+    #change-password .form-wrap .form-pass-change .bot-con input{padding: 0px 44px 8px!important;}
+     #change-password .form-wrap .reg-submit input{padding-top: 0px!important;}
+    #change-password .form-wrap .form-pass-change .pass{padding-left: 20px!important;}
+    #register-content .form-wrap .form-register .reg-submit input{padding-top: 0px!important;}
+.webview-wrapper h2{letter-spacing: 5px!important;}
+#meta .container .in h3{padding: 10px 0px 10px!important;}
+#register-content.edit .form-wrap .bot-bbtns h4 a{padding-top: 10px!important;}
+}
+
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px) { 
+    header .user-links .arabic{padding-top: 0px!important;}
+    header .color-select-box .bootstrap-select button{margin-top: -3px!important;padding-top: 0px!important;}
+    #loggedin-content .points-wrap .p-point-bal,#loggedin-content .points-wrap .g-point-bal{padding: 0px!important;}
+    #offersfor-you .off4 .share-wrap{right: 3px!important;bottom: 40px!important;}
+    #loggedin-content .profile-wrap .edit-wrap h4{padding-top: 18px!important;}
+    #loggedin-content .profile-wrap .my-activities .l h4,#loggedin-content .profile-wrap .my-activities .r h4{padding-top: 10px!important;}
+    #my-group .points-wrap .d-one .point-bal,#my-group .points-wrap .d-two .point-bal{padding-top: 0px!important;}
+    #my-trans .trans-wrap .trans-head .head-single h3{padding: 19px 20px 13px !important;}
+    #warranty-details .item p{padding-top: 8px;}
+    #warranty-details .item p{padding-top: 8px!important;}
+    #register-content .form-wrap .edit-cea a.email-enabled h4,#register-content .form-wrap .edit-ceb h4{padding: 11px 15px 25px !important;}
+    #register-content .form-wrap .form-register .form-control,#register-content .form-wrap .form-register .natsel .btn{padding-top: 5px!important;}
+     #change-password .form-wrap .reg-submit input{padding-top: 0px!important;}
+     #change-password .form-wrap .form-pass-change .pass{padding-left: 20px!important;}
+#meta .container .in h3{padding: 10px 0px 10px!important;}
+
+
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+ header .user-links .arabic{padding-top: 0px!important;}
+    header .color-select-box .bootstrap-select button{margin-top: -3px!important;padding-top: 0px!important;}
+    #loggedin-content .points-wrap .p-point-bal,#loggedin-content .points-wrap .g-point-bal{padding: 0px!important;}
+    #offersfor-you .off4 .share-wrap{right: 10px!important;bottom: 32px!important;}
+    #loggedin-content .profile-wrap .edit-wrap h4{padding-top: 18px!important;}
+    #loggedin-content .profile-wrap .my-activities .l h4,#loggedin-content .profile-wrap .my-activities .r h4{padding-top: 10px!important;}
+    #my-group .points-wrap .d-one .point-bal,#my-group .points-wrap .d-two .point-bal{padding-top: 0px!important;}
+    #my-trans .trans-wrap .trans-head .head-single h3{padding: 34px 20px 32px !important;}
+    #warranty-details .item p{padding-top: 8px!important;}
+    #register-content .form-wrap .edit-cea a.email-enabled h4,#register-content .form-wrap .edit-ceb h4{padding: 23px 15px 25px!important;}
+    #register-content .form-wrap .form-register .form-control,#register-content .form-wrap .form-register .natsel .btn{padding-top: 5px!important;}
+    #change-password .form-wrap .form-pass-change .bot-con input{padding: 0px 44px 8px!important;}
+    #change-password .form-wrap .reg-submit input{padding-top: 0px!important;}
+    #change-password .form-wrap .form-pass-change .pass{padding-left: 20px!important;}
+    #register-content .edit .bot-bbtns h4{padding-top: 13px!important;}
+    #change-password .form-wrap .form-pass-change .pass{margin-right: 0px!important;}
+    #latest_deals .lat-deal-text p{top:10px!important;}
+    div.checkbox.checkbox-inline.checkbox-inline-1.two{margin-left: 0px!important;width: 100%;}
+    div.checkbox.checkbox-inline.checkbox-inline-1.one{width: 100%;}
+    #register-content .form-wrap .form-register .reg-submit input{padding-top: 0px!important;}
+    #offersfor-you .off4 .lat-deal-text a{top: 5px!important;}
+    #warranty-details .item p{font-size: 30px!important;padding-top: 18px !important;}
+    #location .rowd h4{font-size: 20px!important;}
+
+ }
+
+@media screen and (min-color-index:0) 
+and(-webkit-min-device-pixel-ratio:0) { 
+ .loggedin header .menu-wrap ul li { padding: 8px 10px 5px!important;}
+  #register-content .form-wrap .form-register .date .input-group-addon{height: 59px!important;}
+ #register-content .form-wrap .form-register .form-control{padding-bottom: 0px!important;}
+
+}
+ 
+input::-webkit-input-placeholder { /* WebKit browsers */
+  line-height: 1.5em;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  line-height: 1.5em;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+  line-height: 1.5em;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+  line-height: 1.5em;
+}
+
+.boom{
+    opacity: 0;
+} 
+
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.pulse {
+  -webkit-animation-name: pulse;
+  animation-name: pulse;
+}
+
+.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIna {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-delay: .5s; 
+    animation-delay: .5s;
+}
+.fadeInb {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-delay: 3s; 
+    animation-delay: 3s;
+}
+.fadeInc {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+    -webkit-animation-delay: 1s; 
+    animation-delay: 1s;
+}
+.fadeInd {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+   -webkit-animation-delay: 1.5s; 
+    animation-delay: 1.5s;
+}.fadeIne {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+    -webkit-animation-delay: 2s; 
+    animation-delay: 2s;
+}
+.fadeInf {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+    -webkit-animation-delay: 2.5s; 
+    animation-delay: 2.5s;
+}
+
+
+
+.scroll-wrap {
+    position: relative;
+    z-index: 99;
+ }
+.scroll-wrap span {
+    position: absolute;
+    top: 31px;
+    left: 50%;
+    width: 46px;
+    height: 46px;
+    margin-left: -23px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.scroll-wrap span::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    content: '';
+    width: 16px;
+    height: 16px;
+    margin: -12px 0 0 -8px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    box-sizing: border-box;
+}
+.scroll-wrap span::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    content: '';
+    width: 44px;
+    height: 44px;
+    box-shadow: 0 0 0 0 rgba(255,255,255,.1);
+    border-radius: 100%;
+    opacity: 0;
+    -webkit-animation: sdb03 3s infinite;
+    animation: sdb03 3s infinite;
+    box-sizing: border-box;
+}
+@-webkit-keyframes sdb03 {
+    0% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+    60% {
+        box-shadow: 0 0 0 60px rgba(255,255,255,.1);
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+@keyframes sdb03 {
+    0% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+    60% {
+        box-shadow: 0 0 0 60px rgba(255,255,255,.1);
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}

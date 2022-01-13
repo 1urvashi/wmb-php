@@ -1,0 +1,51 @@
+<?php
+
+return [
+    'OLD_ROLES' => [
+        'ADMIN' => 0,
+        'INSPECTOR' => 1,
+        'SUPERVISOR' => 2,
+        'AUCTION_MANAGER' => 3,
+        'BRANCH_MANAGER' => 4,
+        'QUALITY_CONTROL' => 5,
+        'SENIOR_MANAGER' => 6,
+        'DEALER_HEAD' => 7,
+        'DOCUMENT_CONTROLLER' => 8,
+        'DRM_USER' => 9,
+        'HEAD_DRM' => 10,
+    ],
+    'ROLES' => [
+        'ADMIN' => 1,
+        'AUCTION_CONTROL' => 2,
+        'QUALITY_CONTROL' => 3,
+        'DOCUMENT_CONTROLLER' => 4,
+        'HEAD_DRM' => 5,
+        'DRM_USER' => 6,
+        'SYSTEM_KEY_USER' => 7,
+        'BRANCH_MANAGER' => 8,
+        'ONBOARDER' => 9,
+        'ADMIN_USER' => 10,
+        'RETENTION_AGENT' => 11
+    ],
+    'TYPE' => [
+        'ADMIN' => 1,
+        'USERS' => 2,
+        'DRM' => 3,
+        'SUPER_ADMIN' => 4,
+        'ONBOARDER' => 5,
+        'BRANCH_MANAGER' => 6,
+        'HEAD_DRM' => 7,
+    ],
+    'sourceOfEnquiry' =>[
+        'Dubizzle' => 'Dubizzle',
+        'Instagram' => 'Instagram',
+        'Facebook' => 'Facebook',
+        'Referral' => 'Referral',
+        'Billboards' => 'Billboards',
+        'Electronics Media' => 'Electronics Media',
+        'Youtube Ads' => 'Youtube Ads',
+        'Radio' => 'Radio',
+        'TV ADS' => 'TV ADS',
+        'Others' => 'Others',
+      ],
+];

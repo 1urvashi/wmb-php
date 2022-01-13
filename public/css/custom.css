@@ -1,0 +1,80 @@
+.btn-margin {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.navbar-nav>.notifications-menu>.dropdown-menu>li #notification_list {
+     max-height: 200px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+.navbar-nav>.notifications-menu>.dropdown-menu>li #notification_list li a{
+     color: #444444;
+overflow: hidden;
+text-overflow: ellipsis;
+padding: 10px;
+display: block;
+white-space: nowrap;
+border-bottom: 1px solid #f4f4f4;
+}
+
+span.req {
+     color: red;
+}
+/*# sourceMappingURL=custom.css.map */
+
+.users-list li{
+     width: 25%;
+     text-align: left;
+     padding: 0;
+     padding-bottom: 15px;
+     margin: 0 15px;
+
+    
+}
+
+@media(max-width:600px){
+     .users-list li{
+          width: 100%;
+     }
+     
+}
+
+.popup-gallery{
+     text-align: left;
+     position: relative;
+}
+
+.img-thumbnail{
+     width: 100%;
+}
+
+/* .avatar-editt {
+     display: inline-block;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+     background-color: #496461;
+     color: #b9e3cc;
+     padding: 5px;
+     right: -10px;
+     position: absolute;
+     font-size: 14px;
+     top: 3px;
+     line-height: 0.4;
+     text-align: center;
+     cursor: pointer;
+     z-index: 3;
+   } */
+
+   .users-list-admin{
+     display: flex;
+     flex-wrap: wrap;
+   }
+
+   .users-list-admin ul{
+     margin: 0 -15px;
+   }

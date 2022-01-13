@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+/public/storage
+storage/exports/*
+Homestead.yaml
+Homestead.json
+.env
+/public/uploads
+/nbproject
+composer.lock
+app.zip
+/db/*
+/public/health.html
+# /public/.htaccess

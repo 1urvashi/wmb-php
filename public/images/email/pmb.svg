@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="787.765" height="787.765" viewBox="0 0 787.765 787.765">
+  <g id="Group_1" data-name="Group 1" transform="translate(-795 -360.729)">
+    <g id="White_logo_-_no_background" data-name="White logo - no background" transform="translate(797 362.729)">
+      <g id="SvgjsG1508">
+        <path id="Path_1" data-name="Path 1" d="M388.883,0C172.452,0-3,175.452-3,391.883S172.452,783.765,388.883,783.765,780.765,608.313,780.765,391.883,605.313,0,388.883,0Zm0,735.328c-190.459,0-344.856-154.4-344.856-344.856S198.423,45.616,388.883,45.616s344.856,154.4,344.856,344.856c-.087,190.393-154.459,344.7-344.856,344.7Z" transform="translate(3)" fill="#fff" stroke="#000" stroke-width="4"/>
+        <path id="Path_2" data-name="Path 2" d="M552.884,219C368.485,219,219,368.485,219,552.883S368.485,886.769,552.884,886.769,886.769,737.282,886.769,552.883C886.508,368.592,737.175,219.259,552.884,219Z" transform="translate(-161.548 -162)" fill="#fff"/>
+        <text id="PropertyMyBid" transform="translate(103.452 415)" font-size="67" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="0">PROPERTYMYBID</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

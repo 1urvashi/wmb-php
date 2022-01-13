@@ -1,0 +1,306 @@
+0000000000000000000000000000000000000000 4ba369fa3705aa8ac9229e1a2cc1a1fd469a88a9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623140996 +0530	clone: from https://urvashi_dhokiya@bitbucket.org/mobiiworld/wmb-php.git
+4ba369fa3705aa8ac9229e1a2cc1a1fd469a88a9 9c54196fec408e112501dd8c05a2feab046a0f08 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623142138 +0530	checkout: moving from master to development
+9c54196fec408e112501dd8c05a2feab046a0f08 af27c0ae5b5e0ac70bd960aee36ffdc9d100fc6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623215500 +0530	commit: design change
+af27c0ae5b5e0ac70bd960aee36ffdc9d100fc6b 1d804b98df4dbe369b9480f0e52ad1a63f004638 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623223397 +0530	commit: design change
+1d804b98df4dbe369b9480f0e52ad1a63f004638 2a8be335571744b167e33cf369816b84dd942017 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623233078 +0530	commit: design change
+2a8be335571744b167e33cf369816b84dd942017 e0a31fd5e446eda1dc7f99dda813f6e00a62fd6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623235123 +0530	commit: design change
+e0a31fd5e446eda1dc7f99dda813f6e00a62fd6b 925dbd6762ed6c3cb3bbd46cfdbf69f61cb368b0 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623235768 +0530	commit: design change
+925dbd6762ed6c3cb3bbd46cfdbf69f61cb368b0 d021f37e2f9ea4d59ee263f65688ddb255034659 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623236868 +0530	commit: design change
+d021f37e2f9ea4d59ee263f65688ddb255034659 93b2a681dbf3257fc4e5c569417103c43cc28ec8 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623237015 +0530	commit: design change
+93b2a681dbf3257fc4e5c569417103c43cc28ec8 a7e89fc867ad8888dd36c78039244f1c0163e254 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623243590 +0530	pull: Fast-forward
+a7e89fc867ad8888dd36c78039244f1c0163e254 d19ca710596a4d70eb3ff0cd3b5f39725178aeab yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623246048 +0530	pull: Fast-forward
+d19ca710596a4d70eb3ff0cd3b5f39725178aeab 189b7a80a8c513f0ea8d1884c1f66825a3394667 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623246630 +0530	commit: design change
+189b7a80a8c513f0ea8d1884c1f66825a3394667 2d4d3cff0d97e6fb5782621568174a244040914d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623246681 +0530	pull: Merge made by the 'recursive' strategy.
+2d4d3cff0d97e6fb5782621568174a244040914d 670d9077bc348f08107a6c81f4e6ec058c3c1ef7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623247498 +0530	pull: Fast-forward
+670d9077bc348f08107a6c81f4e6ec058c3c1ef7 b285f0ba4f18f5241d4526fbad3a39947cb85553 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623300379 +0530	pull: Fast-forward
+b285f0ba4f18f5241d4526fbad3a39947cb85553 0a89a3cd2ebb159526c4b6bbfdb8f8df364a0eb4 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623301209 +0530	commit: design change
+0a89a3cd2ebb159526c4b6bbfdb8f8df364a0eb4 ca9f3b99bcc5a5abbd9c56491a9bca3d012f7bd3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623302076 +0530	commit: design change
+ca9f3b99bcc5a5abbd9c56491a9bca3d012f7bd3 9fde05368382a98f8ff56068de3ca9f793494abc yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623303619 +0530	commit: design change
+9fde05368382a98f8ff56068de3ca9f793494abc aded6b3213ffc968f2983f213568791eb509df13 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623306503 +0530	commit: design change
+aded6b3213ffc968f2983f213568791eb509df13 81739e6e80227445faface207369b6292b5dbaf3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623309014 +0530	pull: Fast-forward
+81739e6e80227445faface207369b6292b5dbaf3 15398be5db7b8d379dc42af9f44e6dd1d330d830 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623310550 +0530	commit: design change
+15398be5db7b8d379dc42af9f44e6dd1d330d830 1422d8233fc0f84c4f0452149274057f8bf85cd3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623321544 +0530	commit: bug fixed
+1422d8233fc0f84c4f0452149274057f8bf85cd3 5538f09b2d211b656112306269877dbd892bfb70 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623327649 +0530	commit: bug fixed
+5538f09b2d211b656112306269877dbd892bfb70 2e9c8dd1f93326ed14bb4b0a9e272ad5280cfdc7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623327678 +0530	pull: Merge made by the 'recursive' strategy.
+2e9c8dd1f93326ed14bb4b0a9e272ad5280cfdc7 45d1bf63447854bbe3154514a75c6d5749e3a582 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623328236 +0530	pull: Fast-forward
+45d1bf63447854bbe3154514a75c6d5749e3a582 c64d5c8015cc6ca6ed194b0d4948445f90479bba yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623328851 +0530	commit: bug fixed
+c64d5c8015cc6ca6ed194b0d4948445f90479bba ba920563e23953de40a175866d72dd5ae831863d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623329768 +0530	commit: bug fixed
+ba920563e23953de40a175866d72dd5ae831863d fa4b36896274743d1085b321d4fcd0644b01e156 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623333609 +0530	commit: bug fixed
+fa4b36896274743d1085b321d4fcd0644b01e156 7cbb820ef0c0cacab34dd21ac8915c7b5c9a6973 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623333648 +0530	pull: Merge made by the 'recursive' strategy.
+7cbb820ef0c0cacab34dd21ac8915c7b5c9a6973 d82ff1d6b66aaf90a9688a958af9a39e53f43620 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623390160 +0530	pull: Fast-forward
+d82ff1d6b66aaf90a9688a958af9a39e53f43620 c03fbc319fba0868aba2c8bec0870589e2bdf876 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623391218 +0530	commit: bug fixed
+c03fbc319fba0868aba2c8bec0870589e2bdf876 5b44795a2fba3ea40abf1bec7d6bfffb2c264656 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623395840 +0530	commit: bug fixed
+5b44795a2fba3ea40abf1bec7d6bfffb2c264656 40a5c31238593b32cfc1c61e16397e11a8f68738 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623395862 +0530	pull: Merge made by the 'recursive' strategy.
+40a5c31238593b32cfc1c61e16397e11a8f68738 e5ac433e812aa67e7f8217177c14feb22b9d60f3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623396258 +0530	commit: bug fixed
+e5ac433e812aa67e7f8217177c14feb22b9d60f3 d40d12ec4188370154ab1919cbfb1979a8e23eff yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623401635 +0530	pull: Fast-forward
+d40d12ec4188370154ab1919cbfb1979a8e23eff 6df83eef8fd49ba836ef8bfdefd8ecd5dfeb6bfc yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623402759 +0530	commit: bug fixed
+6df83eef8fd49ba836ef8bfdefd8ecd5dfeb6bfc ba6c02ec7194d59cf9cb5c8ca66c092b26243e8c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623402894 +0530	commit: bug fixed
+ba6c02ec7194d59cf9cb5c8ca66c092b26243e8c cd2d4052ed36d8f32d2a5cd53eee5fe092ec2bea yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623405698 +0530	pull: Fast-forward
+cd2d4052ed36d8f32d2a5cd53eee5fe092ec2bea 9dec28b7218486692a1a61391ca4fe1eba0d0a04 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623407906 +0530	pull: Fast-forward
+9dec28b7218486692a1a61391ca4fe1eba0d0a04 8272fad1173f7a4a30c9b1f67af2674773e4a12f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623409801 +0530	commit: bug fixed
+8272fad1173f7a4a30c9b1f67af2674773e4a12f c990a5a6d6b83f494e89406ac1d56baed84a2182 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623410681 +0530	commit: bug fixed
+c990a5a6d6b83f494e89406ac1d56baed84a2182 e067df3ecd12b5e014af91114157a7170046e736 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623412244 +0530	pull: Fast-forward
+e067df3ecd12b5e014af91114157a7170046e736 6616791602641a7c9acf5178ecb0cda81e9e18a6 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623413004 +0530	pull: Fast-forward
+6616791602641a7c9acf5178ecb0cda81e9e18a6 bf8a1ed35342f600584a2417d6907234e6f0be21 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623415077 +0530	pull: Fast-forward
+bf8a1ed35342f600584a2417d6907234e6f0be21 1d8d00679507563d349bca7a02965504865315df yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623416135 +0530	commit: bug fixed
+1d8d00679507563d349bca7a02965504865315df 0303ed6241122d891b272eee3ba7bbdab2432e3d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623419659 +0530	pull: Fast-forward
+0303ed6241122d891b272eee3ba7bbdab2432e3d 019172a68ee473745cc40b9f3bd973109cc7ab8d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623420069 +0530	commit: bug fixed
+019172a68ee473745cc40b9f3bd973109cc7ab8d e4e9980af4d70d521b49399b6d1847f6afec3345 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623421156 +0530	commit: bug fixed
+e4e9980af4d70d521b49399b6d1847f6afec3345 002c16570c715f89026e498d291685dba7a1cf56 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623421204 +0530	pull: Merge made by the 'recursive' strategy.
+002c16570c715f89026e498d291685dba7a1cf56 a3a80433e532b61bdd3c16fc858ef2155586980b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623741438 +0530	commit: bug fixed
+a3a80433e532b61bdd3c16fc858ef2155586980b adaf14773bdac7f2ed7999258c0bcbae3e2468d2 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623742512 +0530	commit: bug fixed
+adaf14773bdac7f2ed7999258c0bcbae3e2468d2 e6d77e1f09910c477c87c7e71a1c5b3488c8dfc4 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623742903 +0530	commit: bug fixed
+e6d77e1f09910c477c87c7e71a1c5b3488c8dfc4 0bbf40e8be550e8168a2e472759e0469726c231a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623746356 +0530	commit: bug fixed
+0bbf40e8be550e8168a2e472759e0469726c231a 55c620cc23238125335ff062f29c832c21100052 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623748415 +0530	commit: bug fixed
+55c620cc23238125335ff062f29c832c21100052 2569db7a2fac6e836c518d54ab6b868bbb2bfc35 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623752104 +0530	pull: Fast-forward
+2569db7a2fac6e836c518d54ab6b868bbb2bfc35 fe9cea841d6ceae493423bfbd7906a7e48bcc708 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623752813 +0530	commit: bug fixed
+fe9cea841d6ceae493423bfbd7906a7e48bcc708 f3cd19b4b87ee6110bd29ef6f2ab00c98c7ff444 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623753711 +0530	commit: bug fixed
+f3cd19b4b87ee6110bd29ef6f2ab00c98c7ff444 87d2fa946b417814b3355d01b471e422c3afbc22 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623761246 +0530	commit: bug fixed
+87d2fa946b417814b3355d01b471e422c3afbc22 2fa18992a67ffd4c3a66a844f54e7bab6879815f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623763091 +0530	commit: bug fixed
+2fa18992a67ffd4c3a66a844f54e7bab6879815f de72f8d7b65fc1e8d31545832adc788b2beb265f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623763284 +0530	commit: bug fixed
+de72f8d7b65fc1e8d31545832adc788b2beb265f 69ec0957cc5f93651808c912a436ef1dc0604a60 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623763520 +0530	commit: bug fixed
+69ec0957cc5f93651808c912a436ef1dc0604a60 ba35fb5fc81fb48b82d1f8e984a82d27469d1de9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623764203 +0530	commit: bug fixed
+ba35fb5fc81fb48b82d1f8e984a82d27469d1de9 48193fc722f9d10305a43c0c47f249e071495bae yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623764232 +0530	commit: bug fixed
+48193fc722f9d10305a43c0c47f249e071495bae bfa4fcb18595b6a4386d07d87e99d1485c0b6449 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623820403 +0530	commit: bug fixed
+bfa4fcb18595b6a4386d07d87e99d1485c0b6449 a5c5c3caefc30fdae645151ce07a70ca721db47f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623820428 +0530	pull: Merge made by the 'recursive' strategy.
+a5c5c3caefc30fdae645151ce07a70ca721db47f 2a793cf1a6ec0ed9c36fbe4d154b002dc80613b3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623827464 +0530	commit: bug fixed
+2a793cf1a6ec0ed9c36fbe4d154b002dc80613b3 c5c0c88aea95f0d69c3fb40626112ad7de38922e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623827586 +0530	commit: bug fixed
+c5c0c88aea95f0d69c3fb40626112ad7de38922e 721c26e8d3dda98c5dbdcb9869e83ba27192f724 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623827696 +0530	commit: bug fixed
+721c26e8d3dda98c5dbdcb9869e83ba27192f724 d63e580c581eff1866d3ff9fc930292b093baa82 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623833349 +0530	commit: bug fixed
+d63e580c581eff1866d3ff9fc930292b093baa82 099005437de4c13c2045a0fc78555d3cf02163fb yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623835229 +0530	pull: Fast-forward
+099005437de4c13c2045a0fc78555d3cf02163fb 586537ca10b0d0cc8feb3f9733222c2d02633a7b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623837275 +0530	pull: Fast-forward
+586537ca10b0d0cc8feb3f9733222c2d02633a7b e3fc4d3979cddaf7ea36910e932cad035a1818dc yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623837557 +0530	commit: bug fixed
+e3fc4d3979cddaf7ea36910e932cad035a1818dc bc90b27d6d899279a4042953d54f9dc1dab237bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623838303 +0530	commit: bug fixed
+bc90b27d6d899279a4042953d54f9dc1dab237bf 3045e35390c9c44b23f77f0b923402dae45ea7f6 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623840968 +0530	commit: bug fixed
+3045e35390c9c44b23f77f0b923402dae45ea7f6 75c478e5daf33f39df61dbb25aecbd0e3eba7781 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841177 +0530	commit: bug fixed
+75c478e5daf33f39df61dbb25aecbd0e3eba7781 c2a7ff3514ef45d694940c0117e9da0a8bba6d7d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841283 +0530	commit: bug fixed
+c2a7ff3514ef45d694940c0117e9da0a8bba6d7d d513fe6d1e0078e41585625d7624f1842c63cbf9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841380 +0530	commit: bug fixed
+d513fe6d1e0078e41585625d7624f1842c63cbf9 fc892d22c81a482ba071290078ae347558ce3e94 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841522 +0530	commit: bug fixed
+fc892d22c81a482ba071290078ae347558ce3e94 cf5a812911a5cffb3a97e3c513eb2b5339888c0b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841567 +0530	commit: bug fixed
+cf5a812911a5cffb3a97e3c513eb2b5339888c0b a647c31a6f70c807f67de22769c7cba9daa828e8 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623841621 +0530	commit: bug fixed
+a647c31a6f70c807f67de22769c7cba9daa828e8 ac32904220265139236ff5b94aafd5d08294433f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623843309 +0530	commit: bug fixed
+ac32904220265139236ff5b94aafd5d08294433f ffc7041f478ccac2aca01d64144bf8c662fca709 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623843415 +0530	commit: bug fixed
+ffc7041f478ccac2aca01d64144bf8c662fca709 c0d0586ed01e2b1ba9b3293cccc5b2a77b9b47ee yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623843753 +0530	commit: bug fixed
+c0d0586ed01e2b1ba9b3293cccc5b2a77b9b47ee 1205c5c507493baa36888c7efcc6152f833b9481 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623843848 +0530	commit: bug fixed
+1205c5c507493baa36888c7efcc6152f833b9481 47687ae4a45af72a8907e19ff5505e405d3160df yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623843921 +0530	commit: bug fixed
+47687ae4a45af72a8907e19ff5505e405d3160df 811d3eaabced328ddf107422ffca846de87f5ec1 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623845029 +0530	commit: bug fixed
+811d3eaabced328ddf107422ffca846de87f5ec1 9349507fd08994ad12f595c540e540bcfc67a96e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623845396 +0530	commit: bug fixed
+9349507fd08994ad12f595c540e540bcfc67a96e f4fcd8e936f4ee6fc3e8e8b306a4bcfec8376745 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623845506 +0530	commit: bug fixed
+f4fcd8e936f4ee6fc3e8e8b306a4bcfec8376745 6af2443a779dd0fc7826607251848f46550a8525 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623845696 +0530	commit: bug fixed
+6af2443a779dd0fc7826607251848f46550a8525 10f106219b9c8bbf252d0d886a83c2b376c4b1c1 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623846051 +0530	commit: bug fixed
+10f106219b9c8bbf252d0d886a83c2b376c4b1c1 c38e0468ef5c50341b4f0d674409c32edaf295df yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623847351 +0530	commit: bug fixed
+c38e0468ef5c50341b4f0d674409c32edaf295df 216975afdca41cce0fb99ab287e424e2239c1063 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623847450 +0530	commit: bug fixed
+216975afdca41cce0fb99ab287e424e2239c1063 e40c3445d6a968975d87c0bc8968ed34e3c5efe9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623847654 +0530	commit: bug fixed
+e40c3445d6a968975d87c0bc8968ed34e3c5efe9 15fd3e901ae3ae4ae6ef8192f319309d2de7ac6c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623848134 +0530	commit: bug fixed
+15fd3e901ae3ae4ae6ef8192f319309d2de7ac6c 7b3ac1c2ba23c4961ebe8d6a3869aa23cf493ce0 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623848261 +0530	commit: bug fixed
+7b3ac1c2ba23c4961ebe8d6a3869aa23cf493ce0 a342714e8b89d365aaf181c6aff9533c2620c46e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623848531 +0530	commit: bug fixed
+a342714e8b89d365aaf181c6aff9533c2620c46e b73d1d231af9b24a9c9cb3fcb9b3dc56b7b2179d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623848776 +0530	commit: bug fixed
+b73d1d231af9b24a9c9cb3fcb9b3dc56b7b2179d 8b442cbe0cbcec47fbf8871b4cb1f918c91c40a5 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623848892 +0530	commit: bug fixed
+8b442cbe0cbcec47fbf8871b4cb1f918c91c40a5 aabbcbf758199a897da86e7894d293827bdc12f8 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623849182 +0530	commit: bug fixed
+aabbcbf758199a897da86e7894d293827bdc12f8 7e767d99d69434315a2a21c2ee9adfc5e50d6a3f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623849787 +0530	pull: Fast-forward
+7e767d99d69434315a2a21c2ee9adfc5e50d6a3f 245ddfe8d49fb9501bd5e193a83ae1cb95f0d7d3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623920960 +0530	commit: bug fixed
+245ddfe8d49fb9501bd5e193a83ae1cb95f0d7d3 3ecdcae2649f2927dc843570a95dd2affac23d23 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623920981 +0530	pull: Merge made by the 'recursive' strategy.
+3ecdcae2649f2927dc843570a95dd2affac23d23 08718e98797c57df5f96635c65df19d4d6f615dc yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623921305 +0530	commit: bug fixed
+08718e98797c57df5f96635c65df19d4d6f615dc af0c2e0740e876d5896b1ec2f542ecf8f0dfbbc3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623933736 +0530	pull: Fast-forward
+af0c2e0740e876d5896b1ec2f542ecf8f0dfbbc3 55116649b85ba2cb4dc6eec7e0010ceccab4c655 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623935438 +0530	commit: bug fixed
+55116649b85ba2cb4dc6eec7e0010ceccab4c655 4e7ea301a9d5d4f100219eb86d6dda516d0f324e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1623997473 +0530	commit: bug fixed
+4e7ea301a9d5d4f100219eb86d6dda516d0f324e 2c9b841dd48cfe8b71b71711e3e61f05432ecdf7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624017983 +0530	pull: Fast-forward
+2c9b841dd48cfe8b71b71711e3e61f05432ecdf7 89fcaff5e930fab9b60c7ad2c3b6c8482b58f5a5 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624018422 +0530	commit: bug fixed
+89fcaff5e930fab9b60c7ad2c3b6c8482b58f5a5 7972ebe74eec10614c5807972a0aca201fa60816 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624021877 +0530	pull: Fast-forward
+7972ebe74eec10614c5807972a0aca201fa60816 db6872793b6fe77407ba88e8f2d654b63d786324 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624023442 +0530	pull: Fast-forward
+db6872793b6fe77407ba88e8f2d654b63d786324 88b8bcc0c5b1357f6b889b6cd542778aa73d331c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624267201 +0530	commit: bug fixed
+88b8bcc0c5b1357f6b889b6cd542778aa73d331c dd042bacdf028960dc9cb2694859b683cb935d05 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624267326 +0530	commit: bug fixed
+dd042bacdf028960dc9cb2694859b683cb935d05 a38ae5567bd061a99b078e7b3346729d51ee0518 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624338131 +0530	commit: logo change
+a38ae5567bd061a99b078e7b3346729d51ee0518 12a2ccf9711081eb7a0ee68b507c327b084594ed yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624339688 +0530	commit: logo change
+12a2ccf9711081eb7a0ee68b507c327b084594ed f9c94b648e2a3ceda3b1fbfe3a5c4155acc9bdc3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624345670 +0530	commit: logo change
+f9c94b648e2a3ceda3b1fbfe3a5c4155acc9bdc3 7b8b9e1085eddfcced36aa5973723fd5f23b612e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624347741 +0530	commit: logo change
+7b8b9e1085eddfcced36aa5973723fd5f23b612e 13d475d12de9d2bb4830efd20280f2bd380a8626 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624358474 +0530	commit: logo change
+13d475d12de9d2bb4830efd20280f2bd380a8626 5e3992f12de0135b4a0b4c2dd749962f3448fb1a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624362889 +0530	commit: logo change
+5e3992f12de0135b4a0b4c2dd749962f3448fb1a ba3e68f1640bb1527e57fd06ab9f3bfa81907a18 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624449311 +0530	commit: add social link
+ba3e68f1640bb1527e57fd06ab9f3bfa81907a18 034842b43dc742f0362193bc306902a309335a15 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624531181 +0530	commit: make display order wise
+034842b43dc742f0362193bc306902a309335a15 a2f7129ee0e89da39d77a75f5ab4150f7242df40 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624623643 +0530	commit: make display order wise
+a2f7129ee0e89da39d77a75f5ab4150f7242df40 e70a7954a3853e9718b285aa8314c5fe480f7adb yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624858783 +0530	commit: make display order wise
+e70a7954a3853e9718b285aa8314c5fe480f7adb 72e137377fd3cb2576e87d695bb5f801720adfad yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624861381 +0530	commit: make display order wise
+72e137377fd3cb2576e87d695bb5f801720adfad 4ba369fa3705aa8ac9229e1a2cc1a1fd469a88a9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624877328 +0530	checkout: moving from development to master
+4ba369fa3705aa8ac9229e1a2cc1a1fd469a88a9 0375b6eca54bff5d4a469e539b67dac17cc17552 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624877551 +0530	commit (merge): development branch merge code to master
+0375b6eca54bff5d4a469e539b67dac17cc17552 30f91ded14336789442f7792581ed01cc4be120f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624879655 +0530	commit: development branch merge code to master
+30f91ded14336789442f7792581ed01cc4be120f bd4a2eb721276a9fed4ba561f6d18f2e20835621 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624884048 +0530	commit: remove webpatser/laravel-uuid form comoposer.json
+bd4a2eb721276a9fed4ba561f6d18f2e20835621 72e137377fd3cb2576e87d695bb5f801720adfad yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624885345 +0530	checkout: moving from master to development
+72e137377fd3cb2576e87d695bb5f801720adfad ab29595e99228cf5f4a61617b642b99498996152 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624886495 +0530	commit: bug fixed
+ab29595e99228cf5f4a61617b642b99498996152 1c95645555a1005f62b908e387e7e63c8e55344a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624945708 +0530	commit: bug fixed
+1c95645555a1005f62b908e387e7e63c8e55344a 23119d05e9f96e668940ea7de96b519a81389b15 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624949280 +0530	commit: bug fixed
+23119d05e9f96e668940ea7de96b519a81389b15 bd4a2eb721276a9fed4ba561f6d18f2e20835621 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624949407 +0530	checkout: moving from development to master
+bd4a2eb721276a9fed4ba561f6d18f2e20835621 3d031974cce6c459c0af8ad6395555a42109ef50 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624949462 +0530	commit (merge): bug fixed
+3d031974cce6c459c0af8ad6395555a42109ef50 0fef948d85fcb380cf1959c328e8b4e92a8d2027 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624949494 +0530	pull: Merge made by the 'recursive' strategy.
+0fef948d85fcb380cf1959c328e8b4e92a8d2027 ec9e651b1512492ac38b12c0431136999bc568bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624950866 +0530	commit: bug fixed
+ec9e651b1512492ac38b12c0431136999bc568bf 23119d05e9f96e668940ea7de96b519a81389b15 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624950889 +0530	checkout: moving from master to development
+23119d05e9f96e668940ea7de96b519a81389b15 ec9e651b1512492ac38b12c0431136999bc568bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624950906 +0530	merge master: Fast-forward
+ec9e651b1512492ac38b12c0431136999bc568bf ec9e651b1512492ac38b12c0431136999bc568bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624963795 +0530	checkout: moving from development to master
+ec9e651b1512492ac38b12c0431136999bc568bf ec9e651b1512492ac38b12c0431136999bc568bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624963825 +0530	checkout: moving from master to development
+ec9e651b1512492ac38b12c0431136999bc568bf 2ce2fe44151d1f197ed9356fdb132c1df2d9e95c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964399 +0530	commit: bug fixed
+2ce2fe44151d1f197ed9356fdb132c1df2d9e95c ec9e651b1512492ac38b12c0431136999bc568bf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964430 +0530	checkout: moving from development to master
+ec9e651b1512492ac38b12c0431136999bc568bf 2ce2fe44151d1f197ed9356fdb132c1df2d9e95c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964435 +0530	merge development: Fast-forward
+2ce2fe44151d1f197ed9356fdb132c1df2d9e95c 2ce2fe44151d1f197ed9356fdb132c1df2d9e95c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964462 +0530	checkout: moving from master to development
+2ce2fe44151d1f197ed9356fdb132c1df2d9e95c e5234a74615d75a9b9d2190bf0fddea2ed3b415d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964739 +0530	commit: bug fixed
+e5234a74615d75a9b9d2190bf0fddea2ed3b415d 2ce2fe44151d1f197ed9356fdb132c1df2d9e95c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964867 +0530	checkout: moving from development to master
+2ce2fe44151d1f197ed9356fdb132c1df2d9e95c e5234a74615d75a9b9d2190bf0fddea2ed3b415d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964872 +0530	merge development: Fast-forward
+e5234a74615d75a9b9d2190bf0fddea2ed3b415d e5234a74615d75a9b9d2190bf0fddea2ed3b415d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1624964904 +0530	checkout: moving from master to development
+e5234a74615d75a9b9d2190bf0fddea2ed3b415d e89ea7448f67d6ad86a316877ba5ef0539033353 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626067704 +0530	pull: Fast-forward
+e89ea7448f67d6ad86a316877ba5ef0539033353 e5234a74615d75a9b9d2190bf0fddea2ed3b415d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626067718 +0530	checkout: moving from development to master
+e5234a74615d75a9b9d2190bf0fddea2ed3b415d e89ea7448f67d6ad86a316877ba5ef0539033353 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626067731 +0530	pull: Fast-forward
+e89ea7448f67d6ad86a316877ba5ef0539033353 e89ea7448f67d6ad86a316877ba5ef0539033353 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626072336 +0530	checkout: moving from master to development
+e89ea7448f67d6ad86a316877ba5ef0539033353 a1e0120bfe670e8595a3f87cbaa5aec1bd89c2c3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626072436 +0530	commit: bug fixed
+a1e0120bfe670e8595a3f87cbaa5aec1bd89c2c3 cb1e1ac3b9e516617f0dfbab12059d93795e623a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626073678 +0530	commit: update
+cb1e1ac3b9e516617f0dfbab12059d93795e623a e89ea7448f67d6ad86a316877ba5ef0539033353 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626073718 +0530	checkout: moving from development to master
+e89ea7448f67d6ad86a316877ba5ef0539033353 cb1e1ac3b9e516617f0dfbab12059d93795e623a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626073731 +0530	merge development: Fast-forward
+cb1e1ac3b9e516617f0dfbab12059d93795e623a 2cd271759e1a942c60a8af3a95ca5d14d11db8c6 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626087062 +0530	commit: update
+2cd271759e1a942c60a8af3a95ca5d14d11db8c6 cb1e1ac3b9e516617f0dfbab12059d93795e623a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626087354 +0530	checkout: moving from master to development
+cb1e1ac3b9e516617f0dfbab12059d93795e623a 2cd271759e1a942c60a8af3a95ca5d14d11db8c6 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626087374 +0530	merge master: Fast-forward
+2cd271759e1a942c60a8af3a95ca5d14d11db8c6 79ea0babee95617554426e5e392c215de38a78ee yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626158163 +0530	commit: update
+79ea0babee95617554426e5e392c215de38a78ee 82c93719c8eb5beb252ed97dfdefdf1877309f1d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626160226 +0530	commit: email update
+82c93719c8eb5beb252ed97dfdefdf1877309f1d b29b73281524855c4c7b5ab47034520ee748d12a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626162352 +0530	commit: email update
+b29b73281524855c4c7b5ab47034520ee748d12a 3edd2d0a441c38f5f4d2f4c39e64aef243c3d46e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626179014 +0530	commit: email update
+3edd2d0a441c38f5f4d2f4c39e64aef243c3d46e 1463905e421c62abecb4537654657c2ff8ce7a99 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626179326 +0530	commit: email update
+1463905e421c62abecb4537654657c2ff8ce7a99 2cd271759e1a942c60a8af3a95ca5d14d11db8c6 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626671611 +0530	checkout: moving from development to master
+2cd271759e1a942c60a8af3a95ca5d14d11db8c6 1463905e421c62abecb4537654657c2ff8ce7a99 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626671632 +0530	merge development: Fast-forward
+1463905e421c62abecb4537654657c2ff8ce7a99 1463905e421c62abecb4537654657c2ff8ce7a99 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1626671683 +0530	checkout: moving from master to development
+1463905e421c62abecb4537654657c2ff8ce7a99 5d94e6db0c6ff99181ceb88719535a198dea8996 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627365686 +0530	commit: update
+5d94e6db0c6ff99181ceb88719535a198dea8996 1463905e421c62abecb4537654657c2ff8ce7a99 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627366589 +0530	checkout: moving from development to master
+1463905e421c62abecb4537654657c2ff8ce7a99 5d94e6db0c6ff99181ceb88719535a198dea8996 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627366600 +0530	merge development: Fast-forward
+5d94e6db0c6ff99181ceb88719535a198dea8996 5d94e6db0c6ff99181ceb88719535a198dea8996 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627366678 +0530	checkout: moving from master to development
+5d94e6db0c6ff99181ceb88719535a198dea8996 f47785c55da8934585126778099820d007e56212 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627379095 +0530	commit: update
+f47785c55da8934585126778099820d007e56212 be99e2559320c24ad0e036f734f529916c3ebc13 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627380519 +0530	commit: update
+be99e2559320c24ad0e036f734f529916c3ebc13 8a8b38cc13ee032c40b5e4514aab82a65d2fb2c9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627380686 +0530	commit: update
+8a8b38cc13ee032c40b5e4514aab82a65d2fb2c9 e4745f1645848de8f0d00a61064bd779329ddeb2 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627381365 +0530	commit: update
+e4745f1645848de8f0d00a61064bd779329ddeb2 fcc2027ae5fb5dc278db84ea8bf3ae7fe6d57735 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627381568 +0530	commit: update
+fcc2027ae5fb5dc278db84ea8bf3ae7fe6d57735 889fd43f495f5476eb2e0c1cab59e510576ab208 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627381687 +0530	commit: update
+889fd43f495f5476eb2e0c1cab59e510576ab208 9487ed1d823da610a549b0f88f87b84f813bddc1 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627381780 +0530	commit: update
+9487ed1d823da610a549b0f88f87b84f813bddc1 3007fbd16fd2d14e4049343347e21a36d7abc526 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627381982 +0530	commit: update
+3007fbd16fd2d14e4049343347e21a36d7abc526 66e7f1e3317a954d1cae393d6aaa7bd07a99f47d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627382776 +0530	commit: update
+66e7f1e3317a954d1cae393d6aaa7bd07a99f47d 70ffe5a1805b3f1e16d3e9511b8152b72c1ea067 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627382864 +0530	commit: update
+70ffe5a1805b3f1e16d3e9511b8152b72c1ea067 cd4c98ac246e1364a75d00f42fd1da73ebda3063 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627382967 +0530	commit: update
+cd4c98ac246e1364a75d00f42fd1da73ebda3063 e050bbd3ee95de3ce132feeb450b18b898dc8a8c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627383112 +0530	commit: update
+e050bbd3ee95de3ce132feeb450b18b898dc8a8c beddfc7b29592c9dd43c19697e8d98cd229f0161 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627383274 +0530	commit: update
+beddfc7b29592c9dd43c19697e8d98cd229f0161 29341629a220df84566b4b99cf7db1d179823018 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627383384 +0530	commit: update
+29341629a220df84566b4b99cf7db1d179823018 3ff60f7d615efa2af62b847d5a399dffad9caade yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627383432 +0530	commit: update
+3ff60f7d615efa2af62b847d5a399dffad9caade 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627384885 +0530	commit: update
+13a1fa011830514b1cb3f94253d0a7b9092e0719 5d94e6db0c6ff99181ceb88719535a198dea8996 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627384985 +0530	checkout: moving from development to master
+5d94e6db0c6ff99181ceb88719535a198dea8996 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627384989 +0530	merge development: Fast-forward
+13a1fa011830514b1cb3f94253d0a7b9092e0719 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627385011 +0530	checkout: moving from master to development
+13a1fa011830514b1cb3f94253d0a7b9092e0719 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627394241 +0530	checkout: moving from development to master
+13a1fa011830514b1cb3f94253d0a7b9092e0719 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627394257 +0530	checkout: moving from master to development
+13a1fa011830514b1cb3f94253d0a7b9092e0719 529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627394267 +0530	commit: update
+529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 13a1fa011830514b1cb3f94253d0a7b9092e0719 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627394286 +0530	checkout: moving from development to master
+13a1fa011830514b1cb3f94253d0a7b9092e0719 529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627394290 +0530	merge development: Fast-forward
+529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 8d1083ae071d4bc2d06276269f878c988ec05fd0 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627449561 +0530	commit: update
+8d1083ae071d4bc2d06276269f878c988ec05fd0 529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627457373 +0530	checkout: moving from master to development
+529308cdfbbb7676f15c1fbcc1a911b5d0bb2b44 23204b4089158b4cbc2cd56da908a6e40848d704 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627458045 +0530	commit: update
+23204b4089158b4cbc2cd56da908a6e40848d704 04b67c1c95ee21f04900c09aa4ebf9d021d8761a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627458066 +0530	merge master: Merge made by the 'recursive' strategy.
+04b67c1c95ee21f04900c09aa4ebf9d021d8761a 8d1083ae071d4bc2d06276269f878c988ec05fd0 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627458091 +0530	checkout: moving from development to master
+8d1083ae071d4bc2d06276269f878c988ec05fd0 04b67c1c95ee21f04900c09aa4ebf9d021d8761a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627458124 +0530	merge development: Fast-forward
+04b67c1c95ee21f04900c09aa4ebf9d021d8761a 04b67c1c95ee21f04900c09aa4ebf9d021d8761a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627459044 +0530	checkout: moving from master to development
+04b67c1c95ee21f04900c09aa4ebf9d021d8761a 9e77368b12b0c4c13b2a9c8141d406c452e93d96 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627475433 +0530	commit: update
+9e77368b12b0c4c13b2a9c8141d406c452e93d96 04b67c1c95ee21f04900c09aa4ebf9d021d8761a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627475486 +0530	checkout: moving from development to master
+04b67c1c95ee21f04900c09aa4ebf9d021d8761a 9e77368b12b0c4c13b2a9c8141d406c452e93d96 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627475488 +0530	merge development: Fast-forward
+9e77368b12b0c4c13b2a9c8141d406c452e93d96 5920522791cc1073668e362a901750ab905db270 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627896735 +0530	commit: update
+5920522791cc1073668e362a901750ab905db270 9e77368b12b0c4c13b2a9c8141d406c452e93d96 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627896749 +0530	checkout: moving from master to development
+9e77368b12b0c4c13b2a9c8141d406c452e93d96 5920522791cc1073668e362a901750ab905db270 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627896753 +0530	merge master: Fast-forward
+5920522791cc1073668e362a901750ab905db270 4aa62eaa46e9b6db65ed41b5a06a8d3986a4c2b7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627897075 +0530	commit: update
+4aa62eaa46e9b6db65ed41b5a06a8d3986a4c2b7 f14359100149d985d1bfce3ac55c855d64e21e0e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627898373 +0530	commit: update
+f14359100149d985d1bfce3ac55c855d64e21e0e 10340dcb628de5fe9074ae674e30d5c273105aed yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627909690 +0530	commit: update
+10340dcb628de5fe9074ae674e30d5c273105aed 5920522791cc1073668e362a901750ab905db270 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627909708 +0530	checkout: moving from development to master
+5920522791cc1073668e362a901750ab905db270 10340dcb628de5fe9074ae674e30d5c273105aed yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627909718 +0530	merge development: Fast-forward
+10340dcb628de5fe9074ae674e30d5c273105aed 10340dcb628de5fe9074ae674e30d5c273105aed yaminitailor <yaminitailor.mobiiworld@gmail.com> 1627909746 +0530	checkout: moving from master to development
+10340dcb628de5fe9074ae674e30d5c273105aed 8a794a01a233c39362e6aabec4fb500fbf67419c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628161568 +0530	commit: update
+8a794a01a233c39362e6aabec4fb500fbf67419c 10340dcb628de5fe9074ae674e30d5c273105aed yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628161643 +0530	checkout: moving from development to master
+10340dcb628de5fe9074ae674e30d5c273105aed 8a794a01a233c39362e6aabec4fb500fbf67419c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628161655 +0530	merge development: Fast-forward
+8a794a01a233c39362e6aabec4fb500fbf67419c 8a794a01a233c39362e6aabec4fb500fbf67419c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628161681 +0530	checkout: moving from master to development
+8a794a01a233c39362e6aabec4fb500fbf67419c 253061288e706842a1766d4821bdcdc08fb4a448 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628169355 +0530	commit: update
+253061288e706842a1766d4821bdcdc08fb4a448 8a794a01a233c39362e6aabec4fb500fbf67419c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628170546 +0530	checkout: moving from development to master
+8a794a01a233c39362e6aabec4fb500fbf67419c 253061288e706842a1766d4821bdcdc08fb4a448 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628170549 +0530	merge development: Fast-forward
+253061288e706842a1766d4821bdcdc08fb4a448 3507e1a48387983f5866f6e57e296ef3bf017c47 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628234894 +0530	commit: update
+3507e1a48387983f5866f6e57e296ef3bf017c47 253061288e706842a1766d4821bdcdc08fb4a448 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628234913 +0530	checkout: moving from master to development
+253061288e706842a1766d4821bdcdc08fb4a448 3507e1a48387983f5866f6e57e296ef3bf017c47 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628234926 +0530	merge master: Fast-forward
+3507e1a48387983f5866f6e57e296ef3bf017c47 3507e1a48387983f5866f6e57e296ef3bf017c47 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628234948 +0530	checkout: moving from development to master
+3507e1a48387983f5866f6e57e296ef3bf017c47 3507e1a48387983f5866f6e57e296ef3bf017c47 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628234955 +0530	checkout: moving from master to development
+3507e1a48387983f5866f6e57e296ef3bf017c47 960d9bca9221cbca6f4fca88293202caeff7a089 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628246468 +0530	commit: update
+960d9bca9221cbca6f4fca88293202caeff7a089 3507e1a48387983f5866f6e57e296ef3bf017c47 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628246491 +0530	checkout: moving from development to master
+3507e1a48387983f5866f6e57e296ef3bf017c47 960d9bca9221cbca6f4fca88293202caeff7a089 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628246494 +0530	merge development: Fast-forward
+960d9bca9221cbca6f4fca88293202caeff7a089 6d15cbd47b14019214d27beeb9c5a53e6be60d90 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628247272 +0530	commit: update
+6d15cbd47b14019214d27beeb9c5a53e6be60d90 960d9bca9221cbca6f4fca88293202caeff7a089 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628251299 +0530	checkout: moving from master to development
+960d9bca9221cbca6f4fca88293202caeff7a089 31d34a0db6c757ceda8ce70a11498af695b6aacf yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628251788 +0530	commit: update
+31d34a0db6c757ceda8ce70a11498af695b6aacf cf124de4a63639fc0f8d74235c87011b3428561c yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628261877 +0530	commit: update
+cf124de4a63639fc0f8d74235c87011b3428561c 3d3cec588ac23beb17dbd067bf52c50a7da0f145 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262731 +0530	commit: update
+3d3cec588ac23beb17dbd067bf52c50a7da0f145 6d15cbd47b14019214d27beeb9c5a53e6be60d90 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262779 +0530	checkout: moving from development to master
+6d15cbd47b14019214d27beeb9c5a53e6be60d90 b90d7728a5b311091961df5296b8c2f1a8e52b6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262825 +0530	commit (merge): update
+b90d7728a5b311091961df5296b8c2f1a8e52b6b 3d3cec588ac23beb17dbd067bf52c50a7da0f145 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262857 +0530	checkout: moving from master to development
+3d3cec588ac23beb17dbd067bf52c50a7da0f145 b90d7728a5b311091961df5296b8c2f1a8e52b6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262888 +0530	merge master: Fast-forward
+b90d7728a5b311091961df5296b8c2f1a8e52b6b b90d7728a5b311091961df5296b8c2f1a8e52b6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628262917 +0530	checkout: moving from development to master
+b90d7728a5b311091961df5296b8c2f1a8e52b6b 413de93593b0930a12569c06e1726fcfafb31e4a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628486506 +0530	pull: Fast-forward
+413de93593b0930a12569c06e1726fcfafb31e4a 2a86d1a1b08d5664cd328652ede8c1690ceecd6d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628486590 +0530	commit: update
+2a86d1a1b08d5664cd328652ede8c1690ceecd6d b90d7728a5b311091961df5296b8c2f1a8e52b6b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628487058 +0530	checkout: moving from master to development
+b90d7728a5b311091961df5296b8c2f1a8e52b6b 2a86d1a1b08d5664cd328652ede8c1690ceecd6d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628487109 +0530	merge master: Fast-forward
+2a86d1a1b08d5664cd328652ede8c1690ceecd6d 2a86d1a1b08d5664cd328652ede8c1690ceecd6d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628487730 +0530	checkout: moving from development to master
+2a86d1a1b08d5664cd328652ede8c1690ceecd6d 2a86d1a1b08d5664cd328652ede8c1690ceecd6d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628487740 +0530	checkout: moving from master to development
+2a86d1a1b08d5664cd328652ede8c1690ceecd6d 226905fb0a01ae1b38bb2839e539a438763d4047 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628494516 +0530	commit: update
+226905fb0a01ae1b38bb2839e539a438763d4047 2a86d1a1b08d5664cd328652ede8c1690ceecd6d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628494863 +0530	checkout: moving from development to master
+2a86d1a1b08d5664cd328652ede8c1690ceecd6d 226905fb0a01ae1b38bb2839e539a438763d4047 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628494866 +0530	merge development: Fast-forward
+226905fb0a01ae1b38bb2839e539a438763d4047 226905fb0a01ae1b38bb2839e539a438763d4047 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628494990 +0530	checkout: moving from master to development
+226905fb0a01ae1b38bb2839e539a438763d4047 d4310dee8850399c4fff89177f948acb8f4f3391 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628495625 +0530	commit: Customers Management hide from sidebar
+d4310dee8850399c4fff89177f948acb8f4f3391 226905fb0a01ae1b38bb2839e539a438763d4047 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628495642 +0530	checkout: moving from development to master
+226905fb0a01ae1b38bb2839e539a438763d4047 d4310dee8850399c4fff89177f948acb8f4f3391 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1628495646 +0530	merge development: Fast-forward
+d4310dee8850399c4fff89177f948acb8f4f3391 d1dc2b96c83c58cd14d4a1d5866182fa994cf03f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1629182151 +0530	commit: dealear comment condition
+d1dc2b96c83c58cd14d4a1d5866182fa994cf03f d4310dee8850399c4fff89177f948acb8f4f3391 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1629182189 +0530	checkout: moving from master to development
+d4310dee8850399c4fff89177f948acb8f4f3391 d1dc2b96c83c58cd14d4a1d5866182fa994cf03f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1629182215 +0530	merge master: Fast-forward
+d1dc2b96c83c58cd14d4a1d5866182fa994cf03f be3209c5860d272bbc7ffcf8794e82c5a2809e16 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1630667192 +0530	commit: add .htaccess file in git floder
+be3209c5860d272bbc7ffcf8794e82c5a2809e16 d1dc2b96c83c58cd14d4a1d5866182fa994cf03f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1630667256 +0530	checkout: moving from development to master
+d1dc2b96c83c58cd14d4a1d5866182fa994cf03f be3209c5860d272bbc7ffcf8794e82c5a2809e16 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1630667266 +0530	merge development: Fast-forward
+be3209c5860d272bbc7ffcf8794e82c5a2809e16 be3209c5860d272bbc7ffcf8794e82c5a2809e16 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1630667289 +0530	checkout: moving from master to development
+be3209c5860d272bbc7ffcf8794e82c5a2809e16 610164c6ab4feb239be431f722c2452ff2b4e67e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632899872 +0530	commit: complete auction send mail to dealer
+610164c6ab4feb239be431f722c2452ff2b4e67e 7d8edf868aefb0b8249fbf3dbe0b8556ae6dc887 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632904967 +0530	commit: complete auction send mail to dealer
+7d8edf868aefb0b8249fbf3dbe0b8556ae6dc887 a863b068c922f69994e93ba43854ef108a5b1abd yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632906259 +0530	commit: complete auction send mail to dealer
+a863b068c922f69994e93ba43854ef108a5b1abd 5e54f4f70acb04fa7c0c802a3debdac9069f2193 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632906380 +0530	commit: complete auction send mail to dealer
+5e54f4f70acb04fa7c0c802a3debdac9069f2193 07f4e077d5080629a503610d111389c4e0454768 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632906666 +0530	commit: complete auction send mail to dealer
+07f4e077d5080629a503610d111389c4e0454768 0074a9c62f7b2aa09fd5ea99dbf5766d8ee900b3 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632907091 +0530	commit: complete auction send mail to dealer
+0074a9c62f7b2aa09fd5ea99dbf5766d8ee900b3 48c606a19a3952c37fc1a74827a8591c165d4c35 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632907506 +0530	commit: complete auction send mail to dealer
+48c606a19a3952c37fc1a74827a8591c165d4c35 33b46f8ec75262f35270fe6ef45f6e381f9fc6f5 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632907913 +0530	commit: complete auction send mail to dealer
+33b46f8ec75262f35270fe6ef45f6e381f9fc6f5 7ad562ae6d12dc28c49d061b6d50bb3733eb687d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632908049 +0530	commit: complete auction send mail to dealer
+7ad562ae6d12dc28c49d061b6d50bb3733eb687d 3f2b8c712147578437528371cee37020c83df8e7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632908164 +0530	commit: complete auction send mail to dealer
+3f2b8c712147578437528371cee37020c83df8e7 5a27b0daa3b89aff7afc307d82bc85f885449b0d yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632908292 +0530	commit: complete auction send mail to dealer
+5a27b0daa3b89aff7afc307d82bc85f885449b0d 439dd5b3ac0100e77b14dba4c53f922eb4ef319b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632908373 +0530	commit: complete auction send mail to dealer
+439dd5b3ac0100e77b14dba4c53f922eb4ef319b 3590cb99b53bd23448359d92abefdb021933849a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632909546 +0530	commit: complete auction send mail to dealer
+3590cb99b53bd23448359d92abefdb021933849a b07f3f01c1b5fb2b4565223ad9ea41a5e745a605 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632909668 +0530	commit: complete auction send mail to dealer
+b07f3f01c1b5fb2b4565223ad9ea41a5e745a605 cb950b05e018e0296734cd02d9020dee15a14fda yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632910465 +0530	commit: complete auction send mail to dealer
+cb950b05e018e0296734cd02d9020dee15a14fda 238e723579dee60479850441d0614043b68bc854 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632910790 +0530	commit: complete auction send mail to dealer
+238e723579dee60479850441d0614043b68bc854 b5cb3bf91c7af32c836f35912840503472dba51e yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632911676 +0530	commit: complete auction send mail to dealer
+b5cb3bf91c7af32c836f35912840503472dba51e eb43b311d0e616d14a5e99dfbf26fceb7200a896 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632912422 +0530	commit: complete auction send mail to dealer
+eb43b311d0e616d14a5e99dfbf26fceb7200a896 991f09f4184086497448a6371f20d3ca0c7e9293 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632912897 +0530	commit: complete auction send mail to dealer
+991f09f4184086497448a6371f20d3ca0c7e9293 e31039233ef5f32fbea0b4a7d47faa0149782471 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632913347 +0530	commit: complete auction send mail to dealer
+e31039233ef5f32fbea0b4a7d47faa0149782471 67ee8c8e02f6d681e3d48f9cee9c8437210aabda yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632913410 +0530	commit: complete auction send mail to dealer
+67ee8c8e02f6d681e3d48f9cee9c8437210aabda 412ba0674270087234c5e50fb681588ce82175b8 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632913458 +0530	commit: complete auction send mail to dealer
+412ba0674270087234c5e50fb681588ce82175b8 5c2277be8b6c2e62e783cc8913568a3b5176029b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632913506 +0530	commit: complete auction send mail to dealer
+5c2277be8b6c2e62e783cc8913568a3b5176029b 1ff0e67e86e1954fe2b4ebed3300c1a4f50e56bd yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632914544 +0530	commit: complete auction send mail to dealer
+1ff0e67e86e1954fe2b4ebed3300c1a4f50e56bd c56b19d8d13c6fa867c43601e7b2b48ff462694a yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632914759 +0530	commit: complete auction send mail to dealer
+c56b19d8d13c6fa867c43601e7b2b48ff462694a 57557dff85b9d71a8f7e8887a3cb0311f861614b yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632914844 +0530	commit: complete auction send mail to dealer
+57557dff85b9d71a8f7e8887a3cb0311f861614b 3e88e7c7459ed278d54568321ef60642e408d2c4 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632915214 +0530	commit: complete auction send mail to dealer
+3e88e7c7459ed278d54568321ef60642e408d2c4 ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632917962 +0530	commit: complete auction send mail to dealer
+ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 be3209c5860d272bbc7ffcf8794e82c5a2809e16 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632918080 +0530	checkout: moving from development to master
+be3209c5860d272bbc7ffcf8794e82c5a2809e16 ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632918101 +0530	merge development: Fast-forward
+ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 e3d3d11ccd87a9b996ba4ba842ebe87461eacbc7 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632978737 +0530	commit: complete auction send mail to dealer
+e3d3d11ccd87a9b996ba4ba842ebe87461eacbc7 12348f1f9bf52c3adbd75b5dbc90732c9a476c08 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632981574 +0530	commit: complete auction send mail to dealer
+12348f1f9bf52c3adbd75b5dbc90732c9a476c08 ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632981591 +0530	checkout: moving from master to development
+ec83b263bbb693e8aa929a1f1a23b81da20fb8e9 12348f1f9bf52c3adbd75b5dbc90732c9a476c08 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632981599 +0530	merge master: Fast-forward
+12348f1f9bf52c3adbd75b5dbc90732c9a476c08 608276608504103621c52f6f530b53c1320e8b1f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632996721 +0530	commit: add accept button to dealer and admin change the status..
+608276608504103621c52f6f530b53c1320e8b1f 12348f1f9bf52c3adbd75b5dbc90732c9a476c08 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632996754 +0530	checkout: moving from development to master
+12348f1f9bf52c3adbd75b5dbc90732c9a476c08 608276608504103621c52f6f530b53c1320e8b1f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632996759 +0530	merge development: Fast-forward
+608276608504103621c52f6f530b53c1320e8b1f 608276608504103621c52f6f530b53c1320e8b1f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632996780 +0530	checkout: moving from master to development
+608276608504103621c52f6f530b53c1320e8b1f 7dd0b9d480195995997deb6d9eb199202e5e3cb9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632998908 +0530	commit: add accept button to dealer and admin change the status..
+7dd0b9d480195995997deb6d9eb199202e5e3cb9 608276608504103621c52f6f530b53c1320e8b1f yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632998922 +0530	checkout: moving from development to master
+608276608504103621c52f6f530b53c1320e8b1f 7dd0b9d480195995997deb6d9eb199202e5e3cb9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632998925 +0530	merge development: Fast-forward
+7dd0b9d480195995997deb6d9eb199202e5e3cb9 7dd0b9d480195995997deb6d9eb199202e5e3cb9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1632998945 +0530	checkout: moving from master to development
+7dd0b9d480195995997deb6d9eb199202e5e3cb9 f65e8ff9a533012ecf9943a21e4a2dede60563ba yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633003540 +0530	commit: add accept button to dealer and admin change the status..
+f65e8ff9a533012ecf9943a21e4a2dede60563ba 7dd0b9d480195995997deb6d9eb199202e5e3cb9 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633003571 +0530	checkout: moving from development to master
+7dd0b9d480195995997deb6d9eb199202e5e3cb9 f65e8ff9a533012ecf9943a21e4a2dede60563ba yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633003575 +0530	merge development: Fast-forward
+f65e8ff9a533012ecf9943a21e4a2dede60563ba 822b318b65fc79ca98fc04023b06a4f747017fd1 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633007939 +0530	commit: add accept button to dealer and admin change the status..
+822b318b65fc79ca98fc04023b06a4f747017fd1 f65e8ff9a533012ecf9943a21e4a2dede60563ba yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633008112 +0530	checkout: moving from master to development
+f65e8ff9a533012ecf9943a21e4a2dede60563ba 822b318b65fc79ca98fc04023b06a4f747017fd1 yaminitailor <yaminitailor.mobiiworld@gmail.com> 1633008123 +0530	merge master: Fast-forward

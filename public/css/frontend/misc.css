@@ -1,0 +1,231 @@
+  a{  transition: all ease-in-out .5s;}
+
+*:hover{
+    transition: all ease-in-out .2s;
+}
+
+ a{text-decoration: none;}
+ a:hover{text-decoration: none;}
+
+ @keyframes kenburns {
+    0% {
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    95% {
+        transform: scale3d(1.5, 1.5, 1.5) translate3d(-190px, -120px, 0px);
+        animation-timing-function: ease-in;
+        opacity: 1;
+    }
+    100% {
+        transform: scale3d(2, 2, 2) translate3d(-170px, -100px, 0px);
+        opacity: 0;
+    }
+}
+
+
+ .noUi-horizontal .noUi-handle{
+    width: 20px;
+    height: 18px;
+    border-radius: 50%;
+    top: -6px;
+    background: #84b44a;
+}
+
+.noUi-handle:before, .noUi-handle:after{
+    left: 6px;
+    top: 2px;
+    background: none;
+}
+
+.noUi-handle:after{
+    left: 10px;
+}
+
+.noUi-horizontal{
+    height: 7px;
+}
+
+.noUi-connect{
+    background: #84b44a;
+}
+
+.noUi-handle {
+    border: 2px solid #fff;
+    box-shadow: none;
+}
+
+.noUi-horizontal .noUi-tooltip{
+    bottom: -40px;
+        background: none;
+    border: none;
+    color: white;
+}
+
+
+
+.alert{
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
+.alert-danger{
+    text-align: center;
+}
+
+.alert-danger ul li{
+    list-style: none;
+}
+.alert-success{
+    text-align: center;
+}
+
+.alert-success ul li{
+    list-style: none;
+}
+.pagenation-wrap ul li a{
+    color: white;
+    padding: 5px 15px;
+    border: 2px solid #BFBFBF;
+    background: none;
+    margin-right: 10px;
+}
+.pagenation-wrap ul li a:hover{
+    color: #84b44a;
+    border: 2px solid #84b44a;
+    padding: 5px 15px;
+    background: none;
+    margin-right: 10px;
+}
+.pagenation-wrap ul li span{
+    color: white;
+    padding: 5px 15px;
+    border: 2px solid #BFBFBF;
+    background: none;
+    margin-right: 10px;
+}
+
+.pagenation-wrap ul li.active span{
+    padding: 5px 15px;
+    color: #84b44a;
+    border: 2px solid #84b44a;
+    background: none;
+    margin-right: 10px;
+}
+
+.pagenation-wrap ul li.disabled{
+    display: none;
+}
+
+#details .content .details .negotiate {
+    background: #fd6500;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+#listing .content .item .tags .negotiate {
+    background: #fd6500;
+    padding: 5px 10px;
+    color: white;
+    font-size: 10px;
+    margin-right: 20px;
+    font-family: 'Gotham-Bold';
+}
+
+.terms-check {
+     height: auto !important;
+     float: left;
+     margin-right: 5px !important;
+}
+.label-tems a {
+     text-decoration: none;
+     font-family: 'Gotham-Book', 'Montserrat';
+     font-size: 13px;
+     color: #bfbfbf;
+}
+#my_popup_background {
+     opacity: 0.7 !important;
+}
+#my_popup {
+     max-width: 1170px;
+     width: 100%;
+     background: #1A1A1A;
+    padding: 30px;
+    padding-top: 10px;
+
+}
+#my_popup .data {
+     max-height: 500px;
+    overflow-y: auto;
+    color: #bfbfbf;
+    display: inline-block;
+    font-size: 13px;
+    text-align: justify;
+    padding-right: 14px;
+}
+#my_popup span {
+     float: right;
+     text-align: right;
+     width: 100%;
+     cursor: pointer;
+     font-weight: bold;
+      color: white;
+     margin-bottom: 30px;
+}
+
+#my_popup h4 {
+     font-weight: bold;
+     margin-bottom: 20px;
+     font-family: 'Gotham-Bold';
+    color: white;
+    text-transform: uppercase;
+     padding-bottom: 20px;
+    background: url(../images/underline.png) no-repeat bottom left;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.seach-bar {
+     /* border: 1px solid red; */
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#auction_search {
+     background: #1A1A1A;
+    border: none;
+    border-bottom: 2px solid #FFF;
+    padding-top: 15px;
+    max-width: 400px;
+    width: 100%;
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    color: #FFF;
+    background: url(../../images/search_ico.svg) no-repeat;
+     background-size: 15px;
+     background-position: left 15px;
+}

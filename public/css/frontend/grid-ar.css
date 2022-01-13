@@ -1,0 +1,188 @@
+@media only screen and (min-width : 1200px) {
+    .menu-wrapper{display: block;}
+    header .menu_button{display: none;}
+     #details .tabb-d .content #body-work .flexslider{min-height: 400px;}
+
+}
+#caranim{width: 100%;}
+@media only screen and (max-width : 1199px) {
+
+    header .user_det span.lang{right: -50px;}
+
+    header .menu ul li:before{padding-right: 15px;}
+    .menu-wrapper{width: 30%;position: absolute;left: 0;top: 80px;background: #1A1A1A;display: none;z-index: 2;min-width: 250px;}
+        header .menu ul li:before{content: '';padding-right: 0px;}
+        header .menu ul li:first-child{padding-left: 12px;}
+    header .menu_button{width: inherit;}
+    .user_det{float: left;width: 30%;max-width: 250px;}
+     header .user_det .menu_button{width: 26px;float: lrft;    padding-top: 20px;}
+     header .menu ul li{width: 100%;text-align: left;font-size: 13px;line-height: 13px;}
+     header .menu ul{line-height: 50px;}
+     #details .tabb-d .content #body-work .flexslider{    min-height: 373px;}
+
+
+     #details .tabb-d .content #body-work .side_left_view .front_left{background-size: 234px!important;background-position-y: 66px;}
+     #details .tabb-d .content #body-work .side_left_view .front_left_door{background-size: 179px!important;}
+     #details .tabb-d .content #body-work .side_left_view .back_left_door{background-size: 159px!important;}
+     #details .tabb-d .content #body-work .side_left_view .back_left{background-size: 196px!important;}
+     #details .tabb-d .content #body-work .side_left_view .wheel_left{background-size: 111px!important;background-position-x: 140px!important;}
+     #details .tabb-d .content #body-work .side_left_view .wheel_left_back{background-size: 111px!important;background-position-x: 205px!important;}
+
+    #details .tabb-d .content #body-work .top_view .bonnet{background-size: 168px!important;}
+    #details .tabb-d .content #body-work .top_view .top{    background-size: 362px!important;}
+    #details .tabb-d .content #body-work .top_view .trunk_top{background-size: 152px!important;}
+
+     #details .tabb-d .content #body-work .side_right_view .front_right{background-size: 234px!important;background-position-y: 66px;}
+     #details .tabb-d .content #body-work .side_right_view .front_right_door{background-size: 179px!important;}
+     #details .tabb-d .content #body-work .side_right_view .back_right_door{background-size: 159px!important;}
+     #details .tabb-d .content #body-work .side_right_view .back_right{background-size: 196px!important;}
+     #details .tabb-d .content #body-work .side_right_view .wheel_right{background-size: 111px!important;background-position-x: 213px!important;}
+     #details .tabb-d .content #body-work .side_right_view .wheel_right_back{background-size: 111px!important;background-position-x: 148px!important;}
+ }
+
+@media only screen and (max-width : 979px) {
+    #listing .tabs ul li{padding: 6px;}
+    #details .tabb-d .tabs ul li{padding-top: 15px;}
+    #details .tabb-d .tabs ul li{margin-right: 35px;}
+    #details .tabb-d .content #body-work .flexslider{    min-height: 355px;}
+
+
+      #details .tabb-d .content #body-work .side_left_view .front_left{min-height: 131px!important;background-size: 178px!important;background-position-y: 34px;}
+     #details .tabb-d .content #body-work .side_left_view .front_left_door{min-height: 131px!important;background-size: 136px!important;}
+     #details .tabb-d .content #body-work .side_left_view .back_left_door{min-height: 131px!important;background-size: 121px!important;}
+     #details .tabb-d .content #body-work .side_left_view .back_left{min-height: 131px!important;background-size: 151px!important;}
+     #details .tabb-d .content #body-work .side_left_view .wheel_left{background-size: 88px!important;background-position-x: 110px!important;}
+     #details .tabb-d .content #body-work .side_left_view .wheel_left_back{background-size: 88px!important;background-position-x: 159px!important;}
+
+    #details .tabb-d .content #body-work .top_view .bonnet{    background-size: 128px!important;}
+    #details .tabb-d .content #body-work .top_view .top{ background-size: 278px!important;}
+    #details .tabb-d .content #body-work .top_view .trunk_top{    background-size: 116px!important;}
+
+    #details .tabb-d .content #body-work .front_view .top{background-size: 322px!important;    min-height: 148px;}
+    #details .tabb-d .content #body-work .front_view .bottom{background-size: 299px!important;    min-height: 77px;}
+
+    #details .tabb-d .content #body-work .back_view .top{background-size: 322px!important;    min-height: 148px;}
+    #details .tabb-d .content #body-work .back_view .bottom{background-size: 299px!important;    min-height: 77px;}
+
+      #details .tabb-d .content #body-work .side_right_view .front_right{min-height: 131px!important;background-size: 178px!important;background-position-y: 34px;}
+     #details .tabb-d .content #body-work .side_right_view .front_right_door{min-height: 131px!important;background-size: 136px!important;}
+     #details .tabb-d .content #body-work .side_right_view .back_right_door{min-height: 131px!important;background-size: 121px!important;}
+     #details .tabb-d .content #body-work .side_right_view .back_right{min-height: 131px!important;background-size: 151px!important;}
+     #details .tabb-d .content #body-work .side_right_view .wheel_right{background-size: 88px!important;background-position-x: 160px!important;}
+     #details .tabb-d .content #body-work .side_right_view .wheel_right_back{background-size: 88px!important;background-position-x: 108px!important;}
+}
+
+@media only screen and (max-width : 767px) {
+    header .user_det span.lang    {    right: 144px;
+         }
+    #signin .left{min-height: 150px;}
+    #signin .right{min-height: initial;}
+    .user_det{width: 100%;max-width: initial;margin-top: 25px;}
+    header .user_det ul{max-width: 180px;}
+    header .logo{text-align: center;}
+    .menu-wrapper{top: 140px;}
+    #hero{    height: 325px;}
+    #hero .caption p{top: 39%;line-height: 360%;    font-size: 14px;}
+    #hero .caption p span{padding: 12px;}
+    #listing .tabs ul li{width: 100%;float: left;}
+    #listing .tabs ul li.active {background:  #171717;border-bottom: 2px solid #84b44a;}
+    #listing .tabs ul li {padding: 10px;}
+    .innerpage #hero{height: 200px;}
+    .innerpage #hero .caption p{top: 27%;font-size: 19px;}
+    #details .content .details button.next_button{float: left;}
+    #details .content .details p.or{width: 100%;float: left; }
+    #details .content .details form{float: left; width: 100%;}
+    #details .content .details form.bid-now input{margin-bottom: 20px;}
+    #details .tabb-d .content .col-5{width: 50%;float: left;}
+        #details .tabb-d .content #body-work .flexslider{    min-height: 183px;}
+
+
+    #details .tabb-d{max-width: 480px;margin: 0 auto;}
+    #details .tabb-d .tabs ul li{min-height: 55px;}
+
+
+    #details .tabb-d .content #body-work .side_left_view .front_left{    background-size: 111px!important;    background-position-y: 27px!important;  min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .front_left_door{    background-size: 85px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .back_left_door{    background-size: 76px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .back_left{    background-size: 93px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .wheel_left{background-size: 53px!important;    background-position-x: 67px!important;min-height: 56px;}
+    #details .tabb-d .content #body-work .side_left_view .wheel_left_back{background-size: 53px!important;    background-position-x: 103px!important;min-height: 56px;}
+
+
+    #details .tabb-d .content #body-work .side_right_view .front_right{    background-size: 111px!important;    background-position-y: 24px!important;  min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .front_right_door{    background-size: 85px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .back_right_door{    background-size: 76px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .back_right{    background-size: 93px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .wheel_right{background-size: 53px!important;    background-position-x: 103px!important;min-height: 56px;}
+    #details .tabb-d .content #body-work .side_right_view .wheel_right_back{background-size: 53px!important;    background-position-x: 67px!important;min-height: 56px;}
+
+    #details .tabb-d .content #body-work .front_view .top{       background-size: 219px!important;       min-height: 97px;;}
+    #details .tabb-d .content #body-work .front_view .bottom{    background-size: 212px!important;    min-height: 56px;}
+
+    #details .tabb-d .content #body-work .top_view .bonnet{    background-size: 80px!important;    min-height: 108px}
+    #details .tabb-d .content #body-work .top_view .top{background-size: 172px!important;    min-height: 108px}
+    #details .tabb-d .content #body-work .top_view .trunk_top{background-size: 71px!important;    min-height: 108px}
+
+    #details .tabb-d .content #body-work .back_view .top{    background-size: 214px!important;    min-height: 81px;}
+    #details .tabb-d .content #body-work .back_view .bottom{    background-size: 195px!important;min-height: 50px;}
+
+
+    .flex-control-nav{    bottom: -9px}
+}
+
+@media only screen and (max-width : 480px) {
+    #details .tabb-d .content .col-5{width: 100%;float: left;}
+
+    #details .tabb-d{max-width: 320px;margin: 0 auto;}
+
+
+    #details .tabb-d .content #body-work .side_left_view .front_left{    background-size: 71px!important;    background-position-y: 32px!important;  min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .front_left_door{    background-size: 55px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .back_left_door{    background-size: 48px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .back_left{    background-size: 61px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_left_view .wheel_left{background-size: 32px!important;background-position-x: 46px!important; min-height: 32px;}
+    #details .tabb-d .content #body-work .side_left_view .wheel_left_back{background-size: 32px!important;    background-position-x: 65px!important; min-height: 32px;}
+
+
+
+    #details .tabb-d .content #body-work .side_right_view .front_right{    background-size: 71px!important;    background-position-y: 32px!important;  min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .front_right_door{    background-size: 55px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .back_right_door{    background-size: 48px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .back_right{    background-size: 61px!important;    min-height: 86px!important;}
+    #details .tabb-d .content #body-work .side_right_view .wheel_right{background-size: 32px!important;    background-position-x: 69px!important; min-height: 32px;}
+    #details .tabb-d .content #body-work .side_right_view .wheel_right_back{background-size: 32px!important;   background-position-x: 44px!important; min-height: 32px;}
+
+    #details .tabb-d .content #body-work .front_view .top{     background-size: 165px!important;     min-height: 74px;}
+    #details .tabb-d .content #body-work .front_view .bottom{  background-size: 152px!important;min-height: 40px;}
+
+    #details .tabb-d .content #body-work .top_view .bonnet{     background-size: 53px!important;   min-height: 108px}
+    #details .tabb-d .content #body-work .top_view .top{    background-size: 113px!important; min-height: 108px}
+    #details .tabb-d .content #body-work .top_view .trunk_top{    background-size: 48px!important;  min-height: 108px}
+
+    #details .tabb-d .content #body-work .back_view .top{     background-size: 159px!important;     min-height: 60px;}
+    #details .tabb-d .content #body-work .back_view .bottom{     background-size: 144px!important;    min-height: 37px;}
+
+    #details .tabb-d .tabs ul li{    margin-right: 19px;font-size: 12px;}
+
+}
+
+@media only screen and (max-width : 320px) {
+
+
+}
+
+@media only screen and (max-width : 319px) {
+
+
+}
+
+
+@media only screen and (min-width : 768px) {
+
+
+}
+
+@media only screen and (max-width : 767px) {
+
+
+}
